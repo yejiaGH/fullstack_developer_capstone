@@ -67,7 +67,10 @@ class Migration(migrations.Migration):
                     "dealer_id",
                     models.IntegerField(
                         default=0,
-                        help_text="Identifier of the dealership that stocks this model",
+                        help_text=(
+                            "Identifier of the dealership that stocks "
+                            "this model"
+                        ),
                     ),
                 ),
                 (

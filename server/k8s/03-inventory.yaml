@@ -1,0 +1,44 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: cars-inventory
+  labels:
+    app: cars-inventory
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: cars-inventory
+  template:
+    metadata:
+      labels:
+        app: cars-inventory
+    spec:
+      containers:
+      - name: cars-inventory
+        image: carsinventory:latest
+        imagePullPolicy: IfNotPresent
+        ports:
+        - containerPort: 3050
+          protocol: TCP
+        env:
+        - name: MONGO_URL
+          value: "mongodb://mongodb:27017"
+        - name: PORT
+          value: "3050"
+      restartPolicy: Always
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: cars-inventory
+  labels:
+    app: cars-inventory
+spec:
+  selector:
+    app: cars-inventory
+  ports:
+  - protocol: TCP
+    port: 3050
+    targetPort: 3050
+  type: ClusterIP

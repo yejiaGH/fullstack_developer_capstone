@@ -1,0 +1,42 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: sentiment-analyzer
+  labels:
+    app: sentiment-analyzer
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: sentiment-analyzer
+  template:
+    metadata:
+      labels:
+        app: sentiment-analyzer
+    spec:
+      containers:
+      - name: sentiment-analyzer
+        image: sentiment-analyzer:latest
+        imagePullPolicy: IfNotPresent
+        ports:
+        - containerPort: 5050
+          protocol: TCP
+        env:
+        - name: PORT
+          value: "5050"
+      restartPolicy: Always
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: sentiment-analyzer
+  labels:
+    app: sentiment-analyzer
+spec:
+  selector:
+    app: sentiment-analyzer
+  ports:
+  - protocol: TCP
+    port: 5050
+    targetPort: 5050
+  type: ClusterIP

@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react';
+import React, { useCallback, useEffect, useState } from 'react';
 import { Link, useParams } from 'react-router-dom';
 import './SearchCars.css';
 
@@ -18,7 +18,7 @@ function SearchCars() {
   const dealerUrl = `/djangoapp/get_inventory/${id}`;
   const fetchUrl = `/djangoapp/dealer/${id}`;
 
-  const fetchCars = async () => {
+  const fetchCars = useCallback(async () => {
     try {
       const res = await fetch(dealerUrl);
       const json = await res.json();
@@ -30,9 +30,9 @@ function SearchCars() {
     } catch (err) {
       setError('Could not load the inventory.');
     }
-  };
+  }, [dealerUrl]);
 
-  const fetchDealer = async () => {
+  const fetchDealer = useCallback(async () => {
     try {
       const res = await fetch(fetchUrl);
       const json = await res.json();
@@ -41,12 +41,12 @@ function SearchCars() {
     } catch (err) {
       setError('Could not load this dealership.');
     }
-  };
+  }, [fetchUrl]);
 
   useEffect(() => {
     fetchCars();
     fetchDealer();
-  }, [id]);
+  }, [fetchCars, fetchDealer]);
 
   const applyFilter = async () => {
     setMessage('');

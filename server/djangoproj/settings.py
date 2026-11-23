@@ -53,6 +53,10 @@ INSTALLED_APPS = [
 
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
+    # WhiteNoise serves the collected static files.  The development
+    # server does that on its own, but gunicorn does not, so the
+    # container image needs it to serve the React bundle.
+    'whitenoise.middleware.WhiteNoiseMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
     'django.middleware.common.CommonMiddleware',
     'django.middleware.csrf.CsrfViewMiddleware',
@@ -109,6 +113,22 @@ USE_I18N = True
 USE_TZ = True
 
 STATIC_URL = 'static/'
+
+# Directory that holds the files that `collectstatic` gathers.  The
+# container start up script runs collectstatic, so this directory has to
+# be configured for the deployed application to serve the React assets.
+STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')
+
+# Serve the collected files with gzip compression, the bundled React
+# application is about 180 kB before compression.
+STORAGES = {
+    'default': {
+        'BACKEND': 'django.core.files.storage.FileSystemStorage',
+    },
+    'staticfiles': {
+        'BACKEND': 'whitenoise.storage.CompressedStaticFilesStorage',
+    },
+}
 
 # Directories Django searches for static files.
 STATICFILES_DIRS = [

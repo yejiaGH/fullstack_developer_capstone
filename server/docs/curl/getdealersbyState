@@ -1,0 +1,3 @@
+$ curl -s http://localhost:8000/djangoapp/get_dealers/Kansas
+
+{"status": 200, "dealers": [{"_id": "6b03b5439010463b007f639f", "id": 41, "name": "Best Cars Springfield Automotive Group", "state": "Kansas", "__v": 0}, {"_id": "6b03b5439010463b007f63a0", "id": 42, "name": "Crossroads Springfield Automotive Group", "state": "Kansas", "__v": 0}, {"_id": "6b03b5439010463b007f63a1", "id": 43, "name": "Parkway Springfield Auto Mall", "state": "Kansas", "__v": 0}]}

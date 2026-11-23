@@ -1,0 +1,29 @@
+$ python manage.py runserver 127.0.0.1:8001 --noreload
+
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 23, 2026 - 07:04:44
+Django version 5.0.6, using settings 'djangoproj.settings'
+Starting development server at http://127.0.0.1:8001/
+Quit the server with CONTROL-C.
+
+[23/Nov/2026 07:05:25] "GET / HTTP/1.1" 200 1390
+[23/Nov/2026 07:05:25] "GET /about/ HTTP/1.1" 200 3604
+[23/Nov/2026 07:05:25] "GET /contact/ HTTP/1.1" 200 3337
+[23/Nov/2026 07:05:25] "GET /login/ HTTP/1.1" 200 474
+[23/Nov/2026 07:05:25] "GET /register/ HTTP/1.1" 200 474
+[23/Nov/2026 07:05:25] "GET /dealers/ HTTP/1.1" 200 474
+GET from http://localhost:3030/fetchDealers?
+[23/Nov/2026 07:05:25] "GET /djangoapp/get_dealers HTTP/1.1" 200 18711
+GET from http://localhost:3030/fetchDealers/Kansas?
+[23/Nov/2026 07:05:25] "GET /djangoapp/get_dealers/Kansas HTTP/1.1" 200 398
+GET from http://localhost:3030/fetchDealer/3?
+[23/Nov/2026 07:05:25] "GET /djangoapp/dealer/3 HTTP/1.1" 200 144
+GET from http://localhost:3030/fetchReviews/dealer/29?
+[23/Nov/2026 07:05:25] "GET /djangoapp/reviews/dealer/29 HTTP/1.1" 200 1458
+5
+[23/Nov/2026 07:05:25] "GET /djangoapp/get_cars HTTP/1.1" 200 681
+GET from http://localhost:3050/cars/3?
+GET request call complete!
+[23/Nov/2026 07:05:25] "GET /djangoapp/get_inventory/3 HTTP/1.1" 200 1351

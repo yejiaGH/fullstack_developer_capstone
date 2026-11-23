@@ -1,0 +1,3 @@
+$ curl -s http://localhost:8000/djangoapp/dealer/3
+
+{"status": 200, "dealer": [{"_id": "6b03b5439010463b007f6379", "id": 3, "name": "Lakeside Tuscaloosa Auto Mall", "state": "Alabama", "__v": 0}]}

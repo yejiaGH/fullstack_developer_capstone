@@ -20,21 +20,21 @@ spec:
         run: dealership
     spec:
       containers:
-      - image: us.icr.io/your-name-space/dealership:latest
-        imagePullPolicy: Always
+      - image: dealership:latest
+        imagePullPolicy: IfNotPresent
         name: dealership
         ports:
         - containerPort: 8000
           protocol: TCP
         env:
         - name: DJANGO_ALLOWED_HOSTS
-          value: "localhost,127.0.0.1"
+          value: "localhost,127.0.0.1,0.0.0.0"
         - name: DJANGO_CSRF_TRUSTED_ORIGINS
-          value: "http://localhost:8000"
+          value: "http://localhost:30880,http://127.0.0.1:30880,http://localhost:8000,http://127.0.0.1:8000"
         - name: backend_url
           value: "http://dealership-backend:3030"
         - name: sentiment_analyzer_url
-          value: "http://sentiment-analyzer:5000/"
+          value: "http://sentiment-analyzer:5050/"
         - name: searchcars_url
           value: "http://cars-inventory:3050"
       restartPolicy: Always
@@ -52,4 +52,5 @@ spec:
   - protocol: TCP
     port: 8000
     targetPort: 8000
-  type: ClusterIP
+    nodePort: 30880
+  type: NodePort

@@ -90,7 +90,7 @@ def post_review(data_dict):
 
 def analyze_review_sentiments(text):
     """Ask the sentiment analyzer microservice about one review body."""
-    request_url = sentiment_analyzer_url + "analyze/" + text
+    request_url = sentiment_analyzer_url + "/analyze/" + text
     try:
         response = requests.get(request_url, timeout=REQUEST_TIMEOUT)
         return response.json()

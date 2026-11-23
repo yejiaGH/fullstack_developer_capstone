@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react';
+import React, { useCallback, useEffect, useState } from 'react';
 import { Link, useParams } from 'react-router-dom';
 import './Dealer.css';
 
@@ -9,7 +9,7 @@ function Dealer() {
   const [error, setError] = useState('');
   const userName = sessionStorage.getItem('username');
 
-  const fetchDealer = async () => {
+  const fetchDealer = useCallback(async () => {
     try {
       const res = await fetch('/djangoapp/dealer/' + id);
       const json = await res.json();
@@ -18,9 +18,9 @@ function Dealer() {
     } catch (err) {
       setError('Could not load this dealership.');
     }
-  };
+  }, [id]);
 
-  const fetchReviews = async () => {
+  const fetchReviews = useCallback(async () => {
     try {
       const res = await fetch('/djangoapp/reviews/dealer/' + id);
       const json = await res.json();
@@ -28,12 +28,12 @@ function Dealer() {
     } catch (err) {
       setError('Could not load the reviews.');
     }
-  };
+  }, [id]);
 
   useEffect(() => {
     fetchDealer();
     fetchReviews();
-  }, [id]);
+  }, [fetchDealer, fetchReviews]);
 
   return (
     <div className="dealer-page">

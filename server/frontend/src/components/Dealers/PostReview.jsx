@@ -13,9 +13,7 @@ function PostReview() {
   const [carYear, setCarYear] = useState('');
   const [makes, setMakes] = useState([]);
   const [models, setModels] = useState([]);
-  const [userName, setUserName] = useState(
-    sessionStorage.getItem('username') || ''
-  );
+  const [userName] = useState(sessionStorage.getItem('username') || '');
   const [message, setMessage] = useState('');
   const [error, setError] = useState('');
 
@@ -118,7 +116,10 @@ function PostReview() {
             className="postreview-input"
             id="purchase_date"
             name="purchase_date"
-            type="date"
+            type="text"
+            placeholder="YYYY-MM-DD"
+            pattern="[0-9]{4}-[0-9]{2}-[0-9]{2}"
+            title="Write the date as YYYY-MM-DD, for example 2024-06-02"
             value={purchaseDate}
             onChange={(e) => setPurchaseDate(e.target.value)}
             required

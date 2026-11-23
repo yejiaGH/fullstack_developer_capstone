@@ -1,0 +1,55 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  labels:
+    run: dealership
+  name: dealership
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      run: dealership
+  strategy:
+    rollingUpdate:
+      maxSurge: 25%
+      maxUnavailable: 25%
+    type: RollingUpdate
+  template:
+    metadata:
+      labels:
+        run: dealership
+    spec:
+      containers:
+      - image: us.icr.io/your-name-space/dealership:latest
+        imagePullPolicy: Always
+        name: dealership
+        ports:
+        - containerPort: 8000
+          protocol: TCP
+        env:
+        - name: DJANGO_ALLOWED_HOSTS
+          value: "localhost,127.0.0.1"
+        - name: DJANGO_CSRF_TRUSTED_ORIGINS
+          value: "http://localhost:8000"
+        - name: backend_url
+          value: "http://dealership-backend:3030"
+        - name: sentiment_analyzer_url
+          value: "http://sentiment-analyzer:5000/"
+        - name: searchcars_url
+          value: "http://cars-inventory:3050"
+      restartPolicy: Always
+---
+apiVersion: v1
+kind: Service
+metadata:
+  labels:
+    run: dealership
+  name: dealership
+spec:
+  selector:
+    run: dealership
+  ports:
+  - protocol: TCP
+    port: 8000
+    targetPort: 8000
+  type: ClusterIP

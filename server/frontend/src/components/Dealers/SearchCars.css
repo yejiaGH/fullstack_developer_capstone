@@ -1,0 +1,67 @@
+.searchcars-page {
+  min-height: 100vh;
+  background-color: #f4f6f8;
+}
+
+.searchcars-panel {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 32px 16px 64px;
+}
+
+.searchcars-title {
+  font-size: 26px;
+  color: #1f2d3d;
+}
+
+.searchcars-filters {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  flex-wrap: wrap;
+  margin: 20px 0;
+}
+
+.searchcars-filters label {
+  font-size: 14px;
+  color: #4a5568;
+}
+
+.searchcars-filters select {
+  padding: 7px 10px;
+  border: 1px solid #cbd5e0;
+  border-radius: 4px;
+  font-size: 14px;
+}
+
+.searchcars-reset {
+  padding: 7px 16px;
+  background-color: #2c6e49;
+  color: #ffffff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.searchcars-message {
+  color: #b7791f;
+  font-size: 15px;
+}
+
+.searchcars-table {
+  width: 100%;
+  border-collapse: collapse;
+  background: #ffffff;
+}
+
+.searchcars-table th,
+.searchcars-table td {
+  padding: 10px 14px;
+  border-bottom: 1px solid #e2e8f0;
+  text-align: left;
+  font-size: 15px;
+}
+
+.searchcars-table th {
+  background-color: #edf2f7;
+}

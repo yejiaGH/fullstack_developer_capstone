@@ -1,0 +1,5382 @@
+[
+  {
+    "id": 1,
+    "dealer_id": 1,
+    "name": "Linda Anderson",
+    "review": "The car was okay, the price was reasonable.",
+    "purchase_date": "2023-02-01",
+    "car_make": "NISSAN",
+    "car_model": "Pathfinder",
+    "car_year": 2020
+  },
+  {
+    "id": 2,
+    "dealer_id": 1,
+    "name": "Anthony Taylor",
+    "review": "Disappointed with the condition of the car.",
+    "purchase_date": "2024-04-09",
+    "car_make": "Audi",
+    "car_model": "A6",
+    "car_year": 2019
+  },
+  {
+    "id": 3,
+    "dealer_id": 2,
+    "name": "John Brown",
+    "review": "The price was too high for what I got, would not recommend.",
+    "purchase_date": "2023-09-26",
+    "car_make": "Audi",
+    "car_model": "A5",
+    "car_year": 2020
+  },
+  {
+    "id": 4,
+    "dealer_id": 2,
+    "name": "Michael Brown",
+    "review": "Disappointed with the condition of the car.",
+    "purchase_date": "2024-06-06",
+    "car_make": "NISSAN",
+    "car_model": "Pathfinder",
+    "car_year": 2021
+  },
+  {
+    "id": 5,
+    "dealer_id": 2,
+    "name": "Michael Brown",
+    "review": "Excellent service and a fair price, very satisfied.",
+    "purchase_date": "2023-05-22",
+    "car_make": "Audi",
+    "car_model": "A6",
+    "car_year": 2020
+  },
+  {
+    "id": 6,
+    "dealer_id": 3,
+    "name": "James Thomas",
+    "review": "The staff were friendly and the car was perfect.",
+    "purchase_date": "2024-05-16",
+    "car_make": "Audi",
+    "car_model": "A4",
+    "car_year": 2018
+  },
+  {
+    "id": 7,
+    "dealer_id": 3,
+    "name": "Laura Anderson",
+    "review": "The price was too high for what I got, would not recommend.",
+    "purchase_date": "2024-07-22",
+    "car_make": "Toyota",
+    "car_model": "Kluger",
+    "car_year": 2019
+  },
+  {
+    "id": 8,
+    "dealer_id": 3,
+    "name": "John Martin",
+    "review": "Loved this dealership, everything went smoothly.",
+    "purchase_date": "2024-12-02",
+    "car_make": "Toyota",
+    "car_model": "Corolla",
+    "car_year": 2023
+  },
+  {
+    "id": 9,
+    "dealer_id": 4,
+    "name": "James Anderson",
+    "review": "The car works well, that is about all I can say.",
+    "purchase_date": "2023-06-01",
+    "car_make": "NISSAN",
+    "car_model": "Pathfinder",
+    "car_year": 2018
+  },
+  {
+    "id": 10,
+    "dealer_id": 4,
+    "name": "Nancy Martinez",
+    "review": "The price was too high for what I got, would not recommend.",
+    "purchase_date": "2024-09-21",
+    "car_make": "Audi",
+    "car_model": "A5",
+    "car_year": 2021
+  },
+  {
+    "id": 11,
+    "dealer_id": 4,
+    "name": "James Hernandez",
+    "review": "Fantastic services, I would definitely buy again.",
+    "purchase_date": "2024-07-21",
+    "car_make": "Kia",
+    "car_model": "Sorrento",
+    "car_year": 2022
+  },
+  {
+    "id": 12,
+    "dealer_id": 4,
+    "name": "James Miller",
+    "review": "Fantastic services, I would definitely buy again.",
+    "purchase_date": "2023-05-05",
+    "car_make": "Toyota",
+    "car_model": "Kluger",
+    "car_year": 2021
+  },
+  {
+    "id": 13,
+    "dealer_id": 4,
+    "name": "Grace Martinez",
+    "review": "Decent dealership, delivery took a bit long.",
+    "purchase_date": "2022-11-20",
+    "car_make": "Audi",
+    "car_model": "A6",
+    "car_year": 2018
+  },
+  {
+    "id": 14,
+    "dealer_id": 5,
+    "name": "John Garcia",
+    "review": "Worst dealership visit, the paperwork was a mess.",
+    "purchase_date": "2024-09-06",
+    "car_make": "Kia",
+    "car_model": "Sorrento",
+    "car_year": 2022
+  },
+  {
+    "id": 15,
+    "dealer_id": 5,
+    "name": "Grace Hernandez",
+    "review": "Bad experience, they were unhelpful and careless.",
+    "purchase_date": "2024-04-02",
+    "car_make": "Toyota",
+    "car_model": "Camry",
+    "car_year": 2020
+  },
+  {
+    "id": 16,
+    "dealer_id": 5,
+    "name": "Anthony Lopez",
+    "review": "The car was okay, the price was reasonable.",
+    "purchase_date": "2024-08-09",
+    "car_make": "Mercedes",
+    "car_model": "A-Class",
+    "car_year": 2021
+  },
+  {
+    "id": 17,
+    "dealer_id": 5,
+    "name": "Daniel Taylor",
+    "review": "Wonderful experience, the car drives beautifully.",
+    "purchase_date": "2023-04-15",
+    "car_make": "NISSAN",
+    "car_model": "Qashqai",
+    "car_year": 2022
+  },
+  {
+    "id": 18,
+    "dealer_id": 5,
+    "name": "Grace Jones",
+    "review": "Fantastic services, I would definitely buy again.",
+    "purchase_date": "2023-05-18",
+    "car_make": "Kia",
+    "car_model": "Cerato",
+    "car_year": 2020
+  },
+  {
+    "id": 19,
+    "dealer_id": 6,
+    "name": "Amy Davis",
+    "review": "The car works well, that is about all I can say.",
+    "purchase_date": "2022-10-10",
+    "car_make": "Audi",
+    "car_model": "A5",
+    "car_year": 2021
+  },
+  {
+    "id": 20,
+    "dealer_id": 6,
+    "name": "Karen Moore",
+    "review": "Service was fine. I have no strong feelings about it.",
+    "purchase_date": "2024-06-16",
+    "car_make": "NISSAN",
+    "car_model": "XTRAIL",
+    "car_year": 2019
+  },
+  {
+    "id": 21,
+    "dealer_id": 6,
+    "name": "Karen Lopez",
+    "review": "Loved this dealership, everything went smoothly.",
+    "purchase_date": "2023-05-02",
+    "car_make": "Mercedes",
+    "car_model": "E-Class",
+    "car_year": 2019
+  },
+  {
+    "id": 22,
+    "dealer_id": 7,
+    "name": "Grace Moore",
+    "review": "Decent dealership, delivery took a bit long.",
+    "purchase_date": "2023-01-21",
+    "car_make": "Kia",
+    "car_model": "Sorrento",
+    "car_year": 2021
+  },
+  {
+    "id": 23,
+    "dealer_id": 7,
+    "name": "Carlos Hernandez",
+    "review": "The price was too high for what I got, would not recommend.",
+    "purchase_date": "2022-12-28",
+    "car_make": "Mercedes",
+    "car_model": "C-Class",
+    "car_year": 2020
+  },
+  {
+    "id": 24,
+    "dealer_id": 7,
+    "name": "Karen Brown",
+    "review": "Decent dealership, delivery took a bit long.",
+    "purchase_date": "2023-06-22",
+    "car_make": "Mercedes",
+    "car_model": "C-Class",
+    "car_year": 2018
+  },
+  {
+    "id": 25,
+    "dealer_id": 8,
+    "name": "Brian Jones",
+    "review": "The car works well, that is about all I can say.",
+    "purchase_date": "2023-01-02",
+    "car_make": "Toyota",
+    "car_model": "Kluger",
+    "car_year": 2018
+  },
+  {
+    "id": 26,
+    "dealer_id": 8,
+    "name": "Sofia Moore",
+    "review": "Loved this dealership, everything went smoothly.",
+    "purchase_date": "2022-04-02",
+    "car_make": "NISSAN",
+    "car_model": "Pathfinder",
+    "car_year": 2020
+  },
+  {
+    "id": 27,
+    "dealer_id": 8,
+    "name": "Michael Smith",
+    "review": "Great experience from start to finish, highly recommend.",
+    "purchase_date": "2024-08-25",
+    "car_make": "Mercedes",
+    "car_model": "C-Class",
+    "car_year": 2020
+  },
+  {
+    "id": 28,
+    "dealer_id": 8,
+    "name": "Karen Davis",
+    "review": "Fantastic services, I would definitely buy again.",
+    "purchase_date": "2023-04-01",
+    "car_make": "Toyota",
+    "car_model": "Corolla",
+    "car_year": 2018
+  },
+  {
+    "id": 29,
+    "dealer_id": 8,
+    "name": "Maria Lopez",
+    "review": "Loved this dealership, everything went smoothly.",
+    "purchase_date": "2024-05-23",
+    "car_make": "Mercedes",
+    "car_model": "E-Class",
+    "car_year": 2020
+  },
+  {
+    "id": 30,
+    "dealer_id": 9,
+    "name": "Sofia Moore",
+    "review": "The car works well, that is about all I can say.",
+    "purchase_date": "2022-02-13",
+    "car_make": "Kia",
+    "car_model": "Carnival",
+    "car_year": 2022
+  },
+  {
+    "id": 31,
+    "dealer_id": 9,
+    "name": "Nancy Smith",
+    "review": "Worst dealership visit, the paperwork was a mess.",
+    "purchase_date": "2024-02-28",
+    "car_make": "NISSAN",
+    "car_model": "XTRAIL",
+    "car_year": 2020
+  },
+  {
+    "id": 32,
+    "dealer_id": 9,
+    "name": "Linda Wilson",
+    "review": "The price was too high for what I got, would not recommend.",
+    "purchase_date": "2024-11-08",
+    "car_make": "Mercedes",
+    "car_model": "E-Class",
+    "car_year": 2021
+  },
+  {
+    "id": 33,
+    "dealer_id": 9,
+    "name": "Kevin Hernandez",
+    "review": "Excellent service and a fair price, very satisfied.",
+    "purchase_date": "2024-02-26",
+    "car_make": "NISSAN",
+    "car_model": "XTRAIL",
+    "car_year": 2022
+  },
+  {
+    "id": 34,
+    "dealer_id": 9,
+    "name": "Amy Taylor",
+    "review": "Excellent service and a fair price, very satisfied.",
+    "purchase_date": "2024-05-03",
+    "car_make": "Audi",
+    "car_model": "A4",
+    "car_year": 2020
+  },
+  {
+    "id": 35,
+    "dealer_id": 10,
+    "name": "Karen Martinez",
+    "review": "It was an average purchase, nothing special either way.",
+    "purchase_date": "2023-03-03",
+    "car_make": "Kia",
+    "car_model": "Carnival",
+    "car_year": 2022
+  },
+  {
+    "id": 36,
+    "dealer_id": 10,
+    "name": "Kevin Rodriguez",
+    "review": "Loved this dealership, everything went smoothly.",
+    "purchase_date": "2024-11-21",
+    "car_make": "Audi",
+    "car_model": "A4",
+    "car_year": 2020
+  },
+  {
+    "id": 37,
+    "dealer_id": 10,
+    "name": "Laura Jones",
+    "review": "It was an average purchase, nothing special either way.",
+    "purchase_date": "2023-11-03",
+    "car_make": "Audi",
+    "car_model": "A5",
+    "car_year": 2022
+  },
+  {
+    "id": 38,
+    "dealer_id": 11,
+    "name": "Karen Anderson",
+    "review": "Fantastic services, I would definitely buy again.",
+    "purchase_date": "2022-11-16",
+    "car_make": "Mercedes",
+    "car_model": "C-Class",
+    "car_year": 2020
+  },
+  {
+    "id": 39,
+    "dealer_id": 11,
+    "name": "Nancy Lopez",
+    "review": "The car works well, that is about all I can say.",
+    "purchase_date": "2022-09-10",
+    "car_make": "Kia",
+    "car_model": "Carnival",
+    "car_year": 2019
+  },
+  {
+    "id": 40,
+    "dealer_id": 11,
+    "name": "Sofia Davis",
+    "review": "Fantastic services, I would definitely buy again.",
+    "purchase_date": "2022-10-08",
+    "car_make": "NISSAN",
+    "car_model": "XTRAIL",
+    "car_year": 2018
+  },
+  {
+    "id": 41,
+    "dealer_id": 11,
+    "name": "David Rodriguez",
+    "review": "Service was fine. I have no strong feelings about it.",
+    "purchase_date": "2023-11-11",
+    "car_make": "Mercedes",
+    "car_model": "A-Class",
+    "car_year": 2022
+  },
+  {
+    "id": 42,
+    "dealer_id": 11,
+    "name": "Grace Taylor",
+    "review": "Service was fine. I have no strong feelings about it.",
+    "purchase_date": "2022-05-07",
+    "car_make": "Audi",
+    "car_model": "A4",
+    "car_year": 2020
+  },
+  {
+    "id": 43,
+    "dealer_id": 12,
+    "name": "Laura Martin",
+    "review": "The staff were friendly and the car was perfect.",
+    "purchase_date": "2023-10-07",
+    "car_make": "Kia",
+    "car_model": "Carnival",
+    "car_year": 2018
+  },
+  {
+    "id": 44,
+    "dealer_id": 12,
+    "name": "Julia Hernandez",
+    "review": "The price was too high for what I got, would not recommend.",
+    "purchase_date": "2022-07-15",
+    "car_make": "Toyota",
+    "car_model": "Camry",
+    "car_year": 2019
+  },
+  {
+    "id": 45,
+    "dealer_id": 13,
+    "name": "Daniel Jones",
+    "review": "The staff were friendly and the car was perfect.",
+    "purchase_date": "2023-03-05",
+    "car_make": "Kia",
+    "car_model": "Carnival",
+    "car_year": 2020
+  },
+  {
+    "id": 46,
+    "dealer_id": 13,
+    "name": "James Taylor",
+    "review": "Loved this dealership, everything went smoothly.",
+    "purchase_date": "2022-04-20",
+    "car_make": "Toyota",
+    "car_model": "Camry",
+    "car_year": 2021
+  },
+  {
+    "id": 47,
+    "dealer_id": 13,
+    "name": "Anthony Hernandez",
+    "review": "Service was fine. I have no strong feelings about it.",
+    "purchase_date": "2022-06-03",
+    "car_make": "NISSAN",
+    "car_model": "Pathfinder",
+    "car_year": 2019
+  },
+  {
+    "id": 48,
+    "dealer_id": 14,
+    "name": "Brian Taylor",
+    "review": "Bad experience, they were unhelpful and careless.",
+    "purchase_date": "2022-11-06",
+    "car_make": "Audi",
+    "car_model": "A5",
+    "car_year": 2023
+  },
+  {
+    "id": 49,
+    "dealer_id": 14,
+    "name": "Grace Brown",
+    "review": "The price was too high for what I got, would not recommend.",
+    "purchase_date": "2023-05-13",
+    "car_make": "Mercedes",
+    "car_model": "A-Class",
+    "car_year": 2021
+  },
+  {
+    "id": 50,
+    "dealer_id": 14,
+    "name": "Julia Hernandez",
+    "review": "Loved this dealership, everything went smoothly.",
+    "purchase_date": "2022-08-24",
+    "car_make": "NISSAN",
+    "car_model": "XTRAIL",
+    "car_year": 2020
+  },
+  {
+    "id": 51,
+    "dealer_id": 15,
+    "name": "Julia Davis",
+    "review": "Disappointed with the condition of the car.",
+    "purchase_date": "2022-06-12",
+    "car_make": "Mercedes",
+    "car_model": "E-Class",
+    "car_year": 2018
+  },
+  {
+    "id": 52,
+    "dealer_id": 15,
+    "name": "Brian Jackson",
+    "review": "The car works well, that is about all I can say.",
+    "purchase_date": "2024-02-03",
+    "car_make": "NISSAN",
+    "car_model": "XTRAIL",
+    "car_year": 2021
+  },
+  {
+    "id": 53,
+    "dealer_id": 15,
+    "name": "Grace Miller",
+    "review": "Great experience from start to finish, highly recommend.",
+    "purchase_date": "2024-11-23",
+    "car_make": "NISSAN",
+    "car_model": "Qashqai",
+    "car_year": 2020
+  },
+  {
+    "id": 54,
+    "dealer_id": 15,
+    "name": "Karen Williams",
+    "review": "The staff were friendly and the car was perfect.",
+    "purchase_date": "2024-02-23",
+    "car_make": "Kia",
+    "car_model": "Carnival",
+    "car_year": 2021
+  },
+  {
+    "id": 55,
+    "dealer_id": 16,
+    "name": "Grace Johnson",
+    "review": "Excellent service and a fair price, very satisfied.",
+    "purchase_date": "2024-08-19",
+    "car_make": "Mercedes",
+    "car_model": "A-Class",
+    "car_year": 2023
+  },
+  {
+    "id": 56,
+    "dealer_id": 16,
+    "name": "Anthony Smith",
+    "review": "Service was fine. I have no strong feelings about it.",
+    "purchase_date": "2022-09-27",
+    "car_make": "Kia",
+    "car_model": "Sorrento",
+    "car_year": 2019
+  },
+  {
+    "id": 57,
+    "dealer_id": 16,
+    "name": "Grace Davis",
+    "review": "Wonderful experience, the car drives beautifully.",
+    "purchase_date": "2024-10-12",
+    "car_make": "Mercedes",
+    "car_model": "A-Class",
+    "car_year": 2021
+  },
+  {
+    "id": 58,
+    "dealer_id": 16,
+    "name": "Elena Martinez",
+    "review": "Wonderful experience, the car drives beautifully.",
+    "purchase_date": "2023-10-24",
+    "car_make": "Audi",
+    "car_model": "A4",
+    "car_year": 2023
+  },
+  {
+    "id": 59,
+    "dealer_id": 17,
+    "name": "John Hernandez",
+    "review": "Decent dealership, delivery took a bit long.",
+    "purchase_date": "2024-09-04",
+    "car_make": "Audi",
+    "car_model": "A5",
+    "car_year": 2019
+  },
+  {
+    "id": 60,
+    "dealer_id": 17,
+    "name": "Laura Taylor",
+    "review": "The staff were friendly and the car was perfect.",
+    "purchase_date": "2023-01-15",
+    "car_make": "Audi",
+    "car_model": "A5",
+    "car_year": 2019
+  },
+  {
+    "id": 61,
+    "dealer_id": 17,
+    "name": "Carlos Lopez",
+    "review": "The staff were friendly and the car was perfect.",
+    "purchase_date": "2024-01-25",
+    "car_make": "Mercedes",
+    "car_model": "C-Class",
+    "car_year": 2022
+  },
+  {
+    "id": 62,
+    "dealer_id": 18,
+    "name": "Julia Gonzalez",
+    "review": "The car was okay, the price was reasonable.",
+    "purchase_date": "2022-01-16",
+    "car_make": "Audi",
+    "car_model": "A5",
+    "car_year": 2020
+  },
+  {
+    "id": 63,
+    "dealer_id": 18,
+    "name": "Brian Hernandez",
+    "review": "The car was okay, the price was reasonable.",
+    "purchase_date": "2022-02-17",
+    "car_make": "NISSAN",
+    "car_model": "Pathfinder",
+    "car_year": 2022
+  },
+  {
+    "id": 64,
+    "dealer_id": 18,
+    "name": "Anthony Jones",
+    "review": "It was an average purchase, nothing special either way.",
+    "purchase_date": "2024-10-28",
+    "car_make": "Toyota",
+    "car_model": "Corolla",
+    "car_year": 2018
+  },
+  {
+    "id": 65,
+    "dealer_id": 19,
+    "name": "Kevin Garcia",
+    "review": "The staff were friendly and the car was perfect.",
+    "purchase_date": "2024-05-04",
+    "car_make": "Mercedes",
+    "car_model": "E-Class",
+    "car_year": 2018
+  },
+  {
+    "id": 66,
+    "dealer_id": 19,
+    "name": "Anthony Jones",
+    "review": "Disappointed with the condition of the car.",
+    "purchase_date": "2022-11-09",
+    "car_make": "NISSAN",
+    "car_model": "XTRAIL",
+    "car_year": 2020
+  },
+  {
+    "id": 67,
+    "dealer_id": 19,
+    "name": "Karen Gonzalez",
+    "review": "Fantastic services, I would definitely buy again.",
+    "purchase_date": "2024-12-12",
+    "car_make": "NISSAN",
+    "car_model": "Pathfinder",
+    "car_year": 2018
+  },
+  {
+    "id": 68,
+    "dealer_id": 19,
+    "name": "David Thomas",
+    "review": "The car works well, that is about all I can say.",
+    "purchase_date": "2024-03-19",
+    "car_make": "Mercedes",
+    "car_model": "E-Class",
+    "car_year": 2020
+  },
+  {
+    "id": 69,
+    "dealer_id": 20,
+    "name": "James Wilson",
+    "review": "The staff were friendly and the car was perfect.",
+    "purchase_date": "2024-12-01",
+    "car_make": "Mercedes",
+    "car_model": "A-Class",
+    "car_year": 2019
+  },
+  {
+    "id": 70,
+    "dealer_id": 20,
+    "name": "John Jackson",
+    "review": "The staff were friendly and the car was perfect.",
+    "purchase_date": "2022-08-10",
+    "car_make": "Audi",
+    "car_model": "A4",
+    "car_year": 2021
+  },
+  {
+    "id": 71,
+    "dealer_id": 20,
+    "name": "James Gonzalez",
+    "review": "Wonderful experience, the car drives beautifully.",
+    "purchase_date": "2022-06-28",
+    "car_make": "Audi",
+    "car_model": "A6",
+    "car_year": 2018
+  },
+  {
+    "id": 72,
+    "dealer_id": 20,
+    "name": "Laura Hernandez",
+    "review": "Fantastic services, I would definitely buy again.",
+    "purchase_date": "2022-03-27",
+    "car_make": "Kia",
+    "car_model": "Cerato",
+    "car_year": 2023
+  },
+  {
+    "id": 73,
+    "dealer_id": 20,
+    "name": "Sofia Martin",
+    "review": "The staff were friendly and the car was perfect.",
+    "purchase_date": "2022-08-23",
+    "car_make": "Mercedes",
+    "car_model": "A-Class",
+    "car_year": 2021
+  },
+  {
+    "id": 74,
+    "dealer_id": 21,
+    "name": "Julia Martin",
+    "review": "It was an average purchase, nothing special either way.",
+    "purchase_date": "2024-02-07",
+    "car_make": "Audi",
+    "car_model": "A5",
+    "car_year": 2022
+  },
+  {
+    "id": 75,
+    "dealer_id": 21,
+    "name": "Grace Martin",
+    "review": "Disappointed with the condition of the car.",
+    "purchase_date": "2022-06-04",
+    "car_make": "Mercedes",
+    "car_model": "A-Class",
+    "car_year": 2020
+  },
+  {
+    "id": 76,
+    "dealer_id": 21,
+    "name": "Karen Rodriguez",
+    "review": "The car works well, that is about all I can say.",
+    "purchase_date": "2023-04-11",
+    "car_make": "Mercedes",
+    "car_model": "A-Class",
+    "car_year": 2020
+  },
+  {
+    "id": 77,
+    "dealer_id": 22,
+    "name": "Nancy Gonzalez",
+    "review": "Fantastic services, I would definitely buy again.",
+    "purchase_date": "2022-06-18",
+    "car_make": "Toyota",
+    "car_model": "Camry",
+    "car_year": 2021
+  },
+  {
+    "id": 78,
+    "dealer_id": 22,
+    "name": "Michael Jackson",
+    "review": "The car was okay, the price was reasonable.",
+    "purchase_date": "2022-11-10",
+    "car_make": "Toyota",
+    "car_model": "Kluger",
+    "car_year": 2018
+  },
+  {
+    "id": 79,
+    "dealer_id": 22,
+    "name": "Kevin Hernandez",
+    "review": "Worst dealership visit, the paperwork was a mess.",
+    "purchase_date": "2024-02-05",
+    "car_make": "Audi",
+    "car_model": "A4",
+    "car_year": 2018
+  },
+  {
+    "id": 80,
+    "dealer_id": 22,
+    "name": "Michael Martin",
+    "review": "The car works well, that is about all I can say.",
+    "purchase_date": "2022-02-26",
+    "car_make": "NISSAN",
+    "car_model": "Qashqai",
+    "car_year": 2018
+  },
+  {
+    "id": 81,
+    "dealer_id": 22,
+    "name": "Laura Garcia",
+    "review": "The staff were friendly and the car was perfect.",
+    "purchase_date": "2023-10-26",
+    "car_make": "Mercedes",
+    "car_model": "C-Class",
+    "car_year": 2020
+  },
+  {
+    "id": 82,
+    "dealer_id": 23,
+    "name": "Amy Martin",
+    "review": "Wonderful experience, the car drives beautifully.",
+    "purchase_date": "2022-08-02",
+    "car_make": "Toyota",
+    "car_model": "Corolla",
+    "car_year": 2023
+  },
+  {
+    "id": 83,
+    "dealer_id": 23,
+    "name": "Brian Moore",
+    "review": "The car works well, that is about all I can say.",
+    "purchase_date": "2023-11-02",
+    "car_make": "NISSAN",
+    "car_model": "XTRAIL",
+    "car_year": 2019
+  },
+  {
+    "id": 84,
+    "dealer_id": 23,
+    "name": "Nancy Garcia",
+    "review": "Fantastic services, I would definitely buy again.",
+    "purchase_date": "2023-11-22",
+    "car_make": "Kia",
+    "car_model": "Carnival",
+    "car_year": 2023
+  },
+  {
+    "id": 85,
+    "dealer_id": 24,
+    "name": "Maria Anderson",
+    "review": "Great experience from start to finish, highly recommend.",
+    "purchase_date": "2022-02-11",
+    "car_make": "Audi",
+    "car_model": "A6",
+    "car_year": 2018
+  },
+  {
+    "id": 86,
+    "dealer_id": 24,
+    "name": "Carlos Martinez",
+    "review": "The car works well, that is about all I can say.",
+    "purchase_date": "2023-12-17",
+    "car_make": "Kia",
+    "car_model": "Carnival",
+    "car_year": 2021
+  },
+  {
+    "id": 87,
+    "dealer_id": 25,
+    "name": "Daniel Rodriguez",
+    "review": "Wonderful experience, the car drives beautifully.",
+    "purchase_date": "2024-05-01",
+    "car_make": "Kia",
+    "car_model": "Sorrento",
+    "car_year": 2018
+  },
+  {
+    "id": 88,
+    "dealer_id": 25,
+    "name": "Laura Garcia",
+    "review": "It was an average purchase, nothing special either way.",
+    "purchase_date": "2023-03-11",
+    "car_make": "Kia",
+    "car_model": "Sorrento",
+    "car_year": 2022
+  },
+  {
+    "id": 89,
+    "dealer_id": 26,
+    "name": "Maria Thomas",
+    "review": "Worst dealership visit, the paperwork was a mess.",
+    "purchase_date": "2024-03-07",
+    "car_make": "Toyota",
+    "car_model": "Camry",
+    "car_year": 2022
+  },
+  {
+    "id": 90,
+    "dealer_id": 26,
+    "name": "Maria Gonzalez",
+    "review": "Great experience from start to finish, highly recommend.",
+    "purchase_date": "2022-09-24",
+    "car_make": "Audi",
+    "car_model": "A5",
+    "car_year": 2021
+  },
+  {
+    "id": 91,
+    "dealer_id": 26,
+    "name": "Anthony Smith",
+    "review": "The car was okay, the price was reasonable.",
+    "purchase_date": "2022-05-06",
+    "car_make": "NISSAN",
+    "car_model": "Qashqai",
+    "car_year": 2022
+  },
+  {
+    "id": 92,
+    "dealer_id": 26,
+    "name": "Kevin Hernandez",
+    "review": "The car works well, that is about all I can say.",
+    "purchase_date": "2023-06-12",
+    "car_make": "Toyota",
+    "car_model": "Corolla",
+    "car_year": 2021
+  },
+  {
+    "id": 93,
+    "dealer_id": 27,
+    "name": "Grace Thomas",
+    "review": "Wonderful experience, the car drives beautifully.",
+    "purchase_date": "2024-08-09",
+    "car_make": "Kia",
+    "car_model": "Carnival",
+    "car_year": 2021
+  },
+  {
+    "id": 94,
+    "dealer_id": 27,
+    "name": "Sofia Rodriguez",
+    "review": "Poor customer service and the wait was too long.",
+    "purchase_date": "2022-08-08",
+    "car_make": "Kia",
+    "car_model": "Cerato",
+    "car_year": 2019
+  },
+  {
+    "id": 95,
+    "dealer_id": 27,
+    "name": "Michael Brown",
+    "review": "Disappointed with the condition of the car.",
+    "purchase_date": "2023-05-10",
+    "car_make": "Toyota",
+    "car_model": "Camry",
+    "car_year": 2022
+  },
+  {
+    "id": 96,
+    "dealer_id": 27,
+    "name": "Amy Thomas",
+    "review": "Excellent service and a fair price, very satisfied.",
+    "purchase_date": "2024-01-02",
+    "car_make": "NISSAN",
+    "car_model": "XTRAIL",
+    "car_year": 2018
+  },
+  {
+    "id": 97,
+    "dealer_id": 28,
+    "name": "Robert Miller",
+    "review": "Wonderful experience, the car drives beautifully.",
+    "purchase_date": "2023-11-09",
+    "car_make": "Kia",
+    "car_model": "Sorrento",
+    "car_year": 2019
+  },
+  {
+    "id": 98,
+    "dealer_id": 28,
+    "name": "Kevin Brown",
+    "review": "Worst dealership visit, the paperwork was a mess.",
+    "purchase_date": "2022-07-16",
+    "car_make": "NISSAN",
+    "car_model": "XTRAIL",
+    "car_year": 2022
+  },
+  {
+    "id": 99,
+    "dealer_id": 28,
+    "name": "Brian Anderson",
+    "review": "It was an average purchase, nothing special either way.",
+    "purchase_date": "2023-12-15",
+    "car_make": "Toyota",
+    "car_model": "Camry",
+    "car_year": 2023
+  },
+  {
+    "id": 100,
+    "dealer_id": 28,
+    "name": "Grace Martin",
+    "review": "Decent dealership, delivery took a bit long.",
+    "purchase_date": "2022-12-26",
+    "car_make": "Audi",
+    "car_model": "A6",
+    "car_year": 2018
+  },
+  {
+    "id": 101,
+    "dealer_id": 29,
+    "name": "Elena Jackson",
+    "review": "Excellent service and a fair price, very satisfied.",
+    "purchase_date": "2024-06-02",
+    "car_make": "NISSAN",
+    "car_model": "XTRAIL",
+    "car_year": 2023
+  },
+  {
+    "id": 102,
+    "dealer_id": 29,
+    "name": "Daniel Anderson",
+    "review": "The price was too high for what I got, would not recommend.",
+    "purchase_date": "2022-05-27",
+    "car_make": "Toyota",
+    "car_model": "Camry",
+    "car_year": 2018
+  },
+  {
+    "id": 103,
+    "dealer_id": 29,
+    "name": "Sofia Johnson",
+    "review": "Service was fine. I have no strong feelings about it.",
+    "purchase_date": "2022-05-28",
+    "car_make": "Mercedes",
+    "car_model": "E-Class",
+    "car_year": 2022
+  },
+  {
+    "id": 104,
+    "dealer_id": 29,
+    "name": "Sofia Moore",
+    "review": "Excellent service and a fair price, very satisfied.",
+    "purchase_date": "2023-05-26",
+    "car_make": "Mercedes",
+    "car_model": "E-Class",
+    "car_year": 2022
+  },
+  {
+    "id": 105,
+    "dealer_id": 29,
+    "name": "Carlos Martinez",
+    "review": "Loved this dealership, everything went smoothly.",
+    "purchase_date": "2022-11-06",
+    "car_make": "Toyota",
+    "car_model": "Corolla",
+    "car_year": 2022
+  },
+  {
+    "id": 106,
+    "dealer_id": 30,
+    "name": "John Anderson",
+    "review": "Disappointed with the condition of the car.",
+    "purchase_date": "2024-06-22",
+    "car_make": "Toyota",
+    "car_model": "Kluger",
+    "car_year": 2023
+  },
+  {
+    "id": 107,
+    "dealer_id": 30,
+    "name": "Elena Martin",
+    "review": "Service was fine. I have no strong feelings about it.",
+    "purchase_date": "2024-06-17",
+    "car_make": "Kia",
+    "car_model": "Carnival",
+    "car_year": 2018
+  },
+  {
+    "id": 108,
+    "dealer_id": 30,
+    "name": "John Lopez",
+    "review": "Decent dealership, delivery took a bit long.",
+    "purchase_date": "2022-05-06",
+    "car_make": "Mercedes",
+    "car_model": "C-Class",
+    "car_year": 2023
+  },
+  {
+    "id": 109,
+    "dealer_id": 31,
+    "name": "Robert Davis",
+    "review": "The staff were friendly and the car was perfect.",
+    "purchase_date": "2023-03-17",
+    "car_make": "Kia",
+    "car_model": "Cerato",
+    "car_year": 2019
+  },
+  {
+    "id": 110,
+    "dealer_id": 31,
+    "name": "Daniel Rodriguez",
+    "review": "The price was too high for what I got, would not recommend.",
+    "purchase_date": "2023-12-05",
+    "car_make": "Toyota",
+    "car_model": "Corolla",
+    "car_year": 2018
+  },
+  {
+    "id": 111,
+    "dealer_id": 32,
+    "name": "Amy Jackson",
+    "review": "The price was too high for what I got, would not recommend.",
+    "purchase_date": "2022-11-26",
+    "car_make": "Mercedes",
+    "car_model": "E-Class",
+    "car_year": 2019
+  },
+  {
+    "id": 112,
+    "dealer_id": 32,
+    "name": "John Thomas",
+    "review": "Wonderful experience, the car drives beautifully.",
+    "purchase_date": "2023-06-13",
+    "car_make": "Toyota",
+    "car_model": "Camry",
+    "car_year": 2020
+  },
+  {
+    "id": 113,
+    "dealer_id": 32,
+    "name": "John Miller",
+    "review": "Poor customer service and the wait was too long.",
+    "purchase_date": "2024-09-08",
+    "car_make": "Audi",
+    "car_model": "A4",
+    "car_year": 2020
+  },
+  {
+    "id": 114,
+    "dealer_id": 32,
+    "name": "Carlos Garcia",
+    "review": "The price was too high for what I got, would not recommend.",
+    "purchase_date": "2024-06-26",
+    "car_make": "Mercedes",
+    "car_model": "C-Class",
+    "car_year": 2018
+  },
+  {
+    "id": 115,
+    "dealer_id": 33,
+    "name": "Sofia Williams",
+    "review": "The staff were friendly and the car was perfect.",
+    "purchase_date": "2023-10-09",
+    "car_make": "NISSAN",
+    "car_model": "Qashqai",
+    "car_year": 2019
+  },
+  {
+    "id": 116,
+    "dealer_id": 33,
+    "name": "David Davis",
+    "review": "The car was okay, the price was reasonable.",
+    "purchase_date": "2024-06-24",
+    "car_make": "Toyota",
+    "car_model": "Kluger",
+    "car_year": 2018
+  },
+  {
+    "id": 117,
+    "dealer_id": 33,
+    "name": "Anthony Martinez",
+    "review": "It was an average purchase, nothing special either way.",
+    "purchase_date": "2023-11-05",
+    "car_make": "Mercedes",
+    "car_model": "A-Class",
+    "car_year": 2020
+  },
+  {
+    "id": 118,
+    "dealer_id": 33,
+    "name": "Maria Williams",
+    "review": "Great experience from start to finish, highly recommend.",
+    "purchase_date": "2022-04-25",
+    "car_make": "Audi",
+    "car_model": "A4",
+    "car_year": 2022
+  },
+  {
+    "id": 119,
+    "dealer_id": 34,
+    "name": "Laura Gonzalez",
+    "review": "Great experience from start to finish, highly recommend.",
+    "purchase_date": "2022-01-14",
+    "car_make": "NISSAN",
+    "car_model": "XTRAIL",
+    "car_year": 2023
+  },
+  {
+    "id": 120,
+    "dealer_id": 34,
+    "name": "Nancy Jones",
+    "review": "Service was fine. I have no strong feelings about it.",
+    "purchase_date": "2023-05-11",
+    "car_make": "Kia",
+    "car_model": "Sorrento",
+    "car_year": 2021
+  },
+  {
+    "id": 121,
+    "dealer_id": 35,
+    "name": "Nancy Moore",
+    "review": "Decent dealership, delivery took a bit long.",
+    "purchase_date": "2023-12-21",
+    "car_make": "Kia",
+    "car_model": "Sorrento",
+    "car_year": 2021
+  },
+  {
+    "id": 122,
+    "dealer_id": 35,
+    "name": "Amy Lopez",
+    "review": "Bad experience, they were unhelpful and careless.",
+    "purchase_date": "2022-08-27",
+    "car_make": "Mercedes",
+    "car_model": "E-Class",
+    "car_year": 2023
+  },
+  {
+    "id": 123,
+    "dealer_id": 35,
+    "name": "Linda Hernandez",
+    "review": "Wonderful experience, the car drives beautifully.",
+    "purchase_date": "2024-11-11",
+    "car_make": "Toyota",
+    "car_model": "Corolla",
+    "car_year": 2022
+  },
+  {
+    "id": 124,
+    "dealer_id": 36,
+    "name": "Anthony Jones",
+    "review": "The staff were friendly and the car was perfect.",
+    "purchase_date": "2024-07-12",
+    "car_make": "Audi",
+    "car_model": "A5",
+    "car_year": 2018
+  },
+  {
+    "id": 125,
+    "dealer_id": 36,
+    "name": "Carlos Rodriguez",
+    "review": "Excellent service and a fair price, very satisfied.",
+    "purchase_date": "2022-02-05",
+    "car_make": "NISSAN",
+    "car_model": "Qashqai",
+    "car_year": 2021
+  },
+  {
+    "id": 126,
+    "dealer_id": 36,
+    "name": "Elena Williams",
+    "review": "Worst dealership visit, the paperwork was a mess.",
+    "purchase_date": "2024-02-16",
+    "car_make": "NISSAN",
+    "car_model": "XTRAIL",
+    "car_year": 2018
+  },
+  {
+    "id": 127,
+    "dealer_id": 36,
+    "name": "Grace Smith",
+    "review": "Worst dealership visit, the paperwork was a mess.",
+    "purchase_date": "2024-11-27",
+    "car_make": "Audi",
+    "car_model": "A6",
+    "car_year": 2022
+  },
+  {
+    "id": 128,
+    "dealer_id": 36,
+    "name": "Anthony Martin",
+    "review": "Great experience from start to finish, highly recommend.",
+    "purchase_date": "2022-04-07",
+    "car_make": "NISSAN",
+    "car_model": "Qashqai",
+    "car_year": 2023
+  },
+  {
+    "id": 129,
+    "dealer_id": 37,
+    "name": "Michael Rodriguez",
+    "review": "Service was fine. I have no strong feelings about it.",
+    "purchase_date": "2024-05-18",
+    "car_make": "Audi",
+    "car_model": "A5",
+    "car_year": 2018
+  },
+  {
+    "id": 130,
+    "dealer_id": 37,
+    "name": "Anthony Johnson",
+    "review": "The car was okay, the price was reasonable.",
+    "purchase_date": "2023-09-12",
+    "car_make": "Audi",
+    "car_model": "A6",
+    "car_year": 2019
+  },
+  {
+    "id": 131,
+    "dealer_id": 37,
+    "name": "Michael Martinez",
+    "review": "Bad experience, they were unhelpful and careless.",
+    "purchase_date": "2022-01-17",
+    "car_make": "Mercedes",
+    "car_model": "C-Class",
+    "car_year": 2021
+  },
+  {
+    "id": 132,
+    "dealer_id": 37,
+    "name": "Laura Taylor",
+    "review": "Decent dealership, delivery took a bit long.",
+    "purchase_date": "2022-07-20",
+    "car_make": "Kia",
+    "car_model": "Carnival",
+    "car_year": 2019
+  },
+  {
+    "id": 133,
+    "dealer_id": 37,
+    "name": "Kevin Rodriguez",
+    "review": "It was an average purchase, nothing special either way.",
+    "purchase_date": "2024-10-24",
+    "car_make": "Kia",
+    "car_model": "Sorrento",
+    "car_year": 2020
+  },
+  {
+    "id": 134,
+    "dealer_id": 38,
+    "name": "Anthony Davis",
+    "review": "Wonderful experience, the car drives beautifully.",
+    "purchase_date": "2022-11-10",
+    "car_make": "Toyota",
+    "car_model": "Kluger",
+    "car_year": 2022
+  },
+  {
+    "id": 135,
+    "dealer_id": 38,
+    "name": "Julia Jackson",
+    "review": "The car was okay, the price was reasonable.",
+    "purchase_date": "2022-02-12",
+    "car_make": "Kia",
+    "car_model": "Carnival",
+    "car_year": 2021
+  },
+  {
+    "id": 136,
+    "dealer_id": 38,
+    "name": "Julia Davis",
+    "review": "It was an average purchase, nothing special either way.",
+    "purchase_date": "2024-04-24",
+    "car_make": "NISSAN",
+    "car_model": "XTRAIL",
+    "car_year": 2021
+  },
+  {
+    "id": 137,
+    "dealer_id": 39,
+    "name": "Elena Martinez",
+    "review": "Decent dealership, delivery took a bit long.",
+    "purchase_date": "2024-04-16",
+    "car_make": "Mercedes",
+    "car_model": "A-Class",
+    "car_year": 2019
+  },
+  {
+    "id": 138,
+    "dealer_id": 39,
+    "name": "Carlos Davis",
+    "review": "The car works well, that is about all I can say.",
+    "purchase_date": "2023-02-13",
+    "car_make": "Audi",
+    "car_model": "A5",
+    "car_year": 2019
+  },
+  {
+    "id": 139,
+    "dealer_id": 39,
+    "name": "John Brown",
+    "review": "Service was fine. I have no strong feelings about it.",
+    "purchase_date": "2023-05-18",
+    "car_make": "Mercedes",
+    "car_model": "C-Class",
+    "car_year": 2018
+  },
+  {
+    "id": 140,
+    "dealer_id": 39,
+    "name": "James Moore",
+    "review": "Disappointed with the condition of the car.",
+    "purchase_date": "2022-05-20",
+    "car_make": "Mercedes",
+    "car_model": "C-Class",
+    "car_year": 2020
+  },
+  {
+    "id": 141,
+    "dealer_id": 40,
+    "name": "Carlos Hernandez",
+    "review": "It was an average purchase, nothing special either way.",
+    "purchase_date": "2024-12-05",
+    "car_make": "Audi",
+    "car_model": "A6",
+    "car_year": 2018
+  },
+  {
+    "id": 142,
+    "dealer_id": 40,
+    "name": "Karen Martin",
+    "review": "Wonderful experience, the car drives beautifully.",
+    "purchase_date": "2023-11-09",
+    "car_make": "NISSAN",
+    "car_model": "Qashqai",
+    "car_year": 2020
+  },
+  {
+    "id": 143,
+    "dealer_id": 41,
+    "name": "David Taylor",
+    "review": "The price was too high for what I got, would not recommend.",
+    "purchase_date": "2023-02-08",
+    "car_make": "Audi",
+    "car_model": "A5",
+    "car_year": 2023
+  },
+  {
+    "id": 144,
+    "dealer_id": 41,
+    "name": "Karen Garcia",
+    "review": "The price was too high for what I got, would not recommend.",
+    "purchase_date": "2022-10-27",
+    "car_make": "Toyota",
+    "car_model": "Camry",
+    "car_year": 2022
+  },
+  {
+    "id": 145,
+    "dealer_id": 41,
+    "name": "Sofia Martinez",
+    "review": "It was an average purchase, nothing special either way.",
+    "purchase_date": "2024-09-19",
+    "car_make": "Toyota",
+    "car_model": "Camry",
+    "car_year": 2018
+  },
+  {
+    "id": 146,
+    "dealer_id": 41,
+    "name": "Elena Williams",
+    "review": "The staff were friendly and the car was perfect.",
+    "purchase_date": "2023-04-28",
+    "car_make": "Audi",
+    "car_model": "A5",
+    "car_year": 2021
+  },
+  {
+    "id": 147,
+    "dealer_id": 42,
+    "name": "David Moore",
+    "review": "The staff were friendly and the car was perfect.",
+    "purchase_date": "2023-09-13",
+    "car_make": "Kia",
+    "car_model": "Sorrento",
+    "car_year": 2021
+  },
+  {
+    "id": 148,
+    "dealer_id": 42,
+    "name": "Robert Taylor",
+    "review": "Excellent service and a fair price, very satisfied.",
+    "purchase_date": "2024-02-26",
+    "car_make": "Audi",
+    "car_model": "A5",
+    "car_year": 2018
+  },
+  {
+    "id": 149,
+    "dealer_id": 42,
+    "name": "Julia Jones",
+    "review": "The price was too high for what I got, would not recommend.",
+    "purchase_date": "2023-07-15",
+    "car_make": "Audi",
+    "car_model": "A6",
+    "car_year": 2020
+  },
+  {
+    "id": 150,
+    "dealer_id": 42,
+    "name": "Robert Martinez",
+    "review": "Excellent service and a fair price, very satisfied.",
+    "purchase_date": "2022-12-13",
+    "car_make": "NISSAN",
+    "car_model": "XTRAIL",
+    "car_year": 2021
+  },
+  {
+    "id": 151,
+    "dealer_id": 42,
+    "name": "Robert Wilson",
+    "review": "Service was fine. I have no strong feelings about it.",
+    "purchase_date": "2024-10-16",
+    "car_make": "Audi",
+    "car_model": "A5",
+    "car_year": 2022
+  },
+  {
+    "id": 152,
+    "dealer_id": 43,
+    "name": "Amy Jackson",
+    "review": "Great experience from start to finish, highly recommend.",
+    "purchase_date": "2022-04-24",
+    "car_make": "Toyota",
+    "car_model": "Kluger",
+    "car_year": 2020
+  },
+  {
+    "id": 153,
+    "dealer_id": 43,
+    "name": "Maria Jackson",
+    "review": "Great experience from start to finish, highly recommend.",
+    "purchase_date": "2023-07-20",
+    "car_make": "NISSAN",
+    "car_model": "Qashqai",
+    "car_year": 2022
+  },
+  {
+    "id": 154,
+    "dealer_id": 43,
+    "name": "David Jones",
+    "review": "Decent dealership, delivery took a bit long.",
+    "purchase_date": "2022-09-23",
+    "car_make": "Kia",
+    "car_model": "Cerato",
+    "car_year": 2021
+  },
+  {
+    "id": 155,
+    "dealer_id": 44,
+    "name": "Robert Smith",
+    "review": "The price was too high for what I got, would not recommend.",
+    "purchase_date": "2024-08-17",
+    "car_make": "Mercedes",
+    "car_model": "C-Class",
+    "car_year": 2021
+  },
+  {
+    "id": 156,
+    "dealer_id": 44,
+    "name": "Anthony Johnson",
+    "review": "It was an average purchase, nothing special either way.",
+    "purchase_date": "2022-08-19",
+    "car_make": "Audi",
+    "car_model": "A4",
+    "car_year": 2019
+  },
+  {
+    "id": 157,
+    "dealer_id": 44,
+    "name": "John Anderson",
+    "review": "Excellent service and a fair price, very satisfied.",
+    "purchase_date": "2024-06-15",
+    "car_make": "Kia",
+    "car_model": "Sorrento",
+    "car_year": 2020
+  },
+  {
+    "id": 158,
+    "dealer_id": 45,
+    "name": "Brian Moore",
+    "review": "Disappointed with the condition of the car.",
+    "purchase_date": "2024-02-19",
+    "car_make": "Mercedes",
+    "car_model": "C-Class",
+    "car_year": 2021
+  },
+  {
+    "id": 159,
+    "dealer_id": 45,
+    "name": "Sofia Davis",
+    "review": "The staff were friendly and the car was perfect.",
+    "purchase_date": "2024-10-09",
+    "car_make": "NISSAN",
+    "car_model": "XTRAIL",
+    "car_year": 2018
+  },
+  {
+    "id": 160,
+    "dealer_id": 46,
+    "name": "Nancy Hernandez",
+    "review": "Worst dealership visit, the paperwork was a mess.",
+    "purchase_date": "2024-04-27",
+    "car_make": "Toyota",
+    "car_model": "Camry",
+    "car_year": 2018
+  },
+  {
+    "id": 161,
+    "dealer_id": 46,
+    "name": "Kevin Thomas",
+    "review": "It was an average purchase, nothing special either way.",
+    "purchase_date": "2024-09-21",
+    "car_make": "NISSAN",
+    "car_model": "Qashqai",
+    "car_year": 2022
+  },
+  {
+    "id": 162,
+    "dealer_id": 46,
+    "name": "Julia Moore",
+    "review": "The staff were friendly and the car was perfect.",
+    "purchase_date": "2024-10-12",
+    "car_make": "Kia",
+    "car_model": "Cerato",
+    "car_year": 2022
+  },
+  {
+    "id": 163,
+    "dealer_id": 46,
+    "name": "Linda Martin",
+    "review": "Excellent service and a fair price, very satisfied.",
+    "purchase_date": "2023-09-04",
+    "car_make": "Audi",
+    "car_model": "A5",
+    "car_year": 2019
+  },
+  {
+    "id": 164,
+    "dealer_id": 47,
+    "name": "James Gonzalez",
+    "review": "The car was okay, the price was reasonable.",
+    "purchase_date": "2023-12-10",
+    "car_make": "Audi",
+    "car_model": "A4",
+    "car_year": 2021
+  },
+  {
+    "id": 165,
+    "dealer_id": 47,
+    "name": "Robert Lopez",
+    "review": "Wonderful experience, the car drives beautifully.",
+    "purchase_date": "2022-08-21",
+    "car_make": "Kia",
+    "car_model": "Cerato",
+    "car_year": 2021
+  },
+  {
+    "id": 166,
+    "dealer_id": 47,
+    "name": "Anthony Thomas",
+    "review": "Poor customer service and the wait was too long.",
+    "purchase_date": "2023-09-11",
+    "car_make": "Audi",
+    "car_model": "A4",
+    "car_year": 2018
+  },
+  {
+    "id": 167,
+    "dealer_id": 47,
+    "name": "Laura Rodriguez",
+    "review": "Fantastic services, I would definitely buy again.",
+    "purchase_date": "2023-04-10",
+    "car_make": "Kia",
+    "car_model": "Cerato",
+    "car_year": 2019
+  },
+  {
+    "id": 168,
+    "dealer_id": 47,
+    "name": "Maria Miller",
+    "review": "Fantastic services, I would definitely buy again.",
+    "purchase_date": "2023-04-05",
+    "car_make": "Audi",
+    "car_model": "A5",
+    "car_year": 2018
+  },
+  {
+    "id": 169,
+    "dealer_id": 48,
+    "name": "Carlos Taylor",
+    "review": "Fantastic services, I would definitely buy again.",
+    "purchase_date": "2024-01-10",
+    "car_make": "Kia",
+    "car_model": "Carnival",
+    "car_year": 2023
+  },
+  {
+    "id": 170,
+    "dealer_id": 48,
+    "name": "Kevin Wilson",
+    "review": "Loved this dealership, everything went smoothly.",
+    "purchase_date": "2023-06-13",
+    "car_make": "Audi",
+    "car_model": "A5",
+    "car_year": 2021
+  },
+  {
+    "id": 171,
+    "dealer_id": 48,
+    "name": "Linda Moore",
+    "review": "The price was too high for what I got, would not recommend.",
+    "purchase_date": "2022-11-13",
+    "car_make": "NISSAN",
+    "car_model": "Pathfinder",
+    "car_year": 2019
+  },
+  {
+    "id": 172,
+    "dealer_id": 48,
+    "name": "Grace Miller",
+    "review": "Wonderful experience, the car drives beautifully.",
+    "purchase_date": "2024-03-03",
+    "car_make": "Mercedes",
+    "car_model": "E-Class",
+    "car_year": 2020
+  },
+  {
+    "id": 173,
+    "dealer_id": 48,
+    "name": "Maria Gonzalez",
+    "review": "The car works well, that is about all I can say.",
+    "purchase_date": "2023-01-20",
+    "car_make": "Mercedes",
+    "car_model": "C-Class",
+    "car_year": 2022
+  },
+  {
+    "id": 174,
+    "dealer_id": 49,
+    "name": "James Jackson",
+    "review": "Disappointed with the condition of the car.",
+    "purchase_date": "2022-12-17",
+    "car_make": "NISSAN",
+    "car_model": "Pathfinder",
+    "car_year": 2021
+  },
+  {
+    "id": 175,
+    "dealer_id": 49,
+    "name": "Linda Brown",
+    "review": "Excellent service and a fair price, very satisfied.",
+    "purchase_date": "2023-05-03",
+    "car_make": "Mercedes",
+    "car_model": "A-Class",
+    "car_year": 2019
+  },
+  {
+    "id": 176,
+    "dealer_id": 49,
+    "name": "Michael Johnson",
+    "review": "Decent dealership, delivery took a bit long.",
+    "purchase_date": "2022-09-20",
+    "car_make": "Audi",
+    "car_model": "A6",
+    "car_year": 2019
+  },
+  {
+    "id": 177,
+    "dealer_id": 49,
+    "name": "John Miller",
+    "review": "Fantastic services, I would definitely buy again.",
+    "purchase_date": "2023-02-08",
+    "car_make": "NISSAN",
+    "car_model": "XTRAIL",
+    "car_year": 2022
+  },
+  {
+    "id": 178,
+    "dealer_id": 50,
+    "name": "Linda Thomas",
+    "review": "Fantastic services, I would definitely buy again.",
+    "purchase_date": "2022-06-27",
+    "car_make": "Mercedes",
+    "car_model": "C-Class",
+    "car_year": 2018
+  },
+  {
+    "id": 179,
+    "dealer_id": 50,
+    "name": "Maria Miller",
+    "review": "The staff were friendly and the car was perfect.",
+    "purchase_date": "2022-03-01",
+    "car_make": "Audi",
+    "car_model": "A4",
+    "car_year": 2023
+  },
+  {
+    "id": 180,
+    "dealer_id": 50,
+    "name": "Laura Brown",
+    "review": "The car works well, that is about all I can say.",
+    "purchase_date": "2024-08-01",
+    "car_make": "Toyota",
+    "car_model": "Corolla",
+    "car_year": 2022
+  },
+  {
+    "id": 181,
+    "dealer_id": 51,
+    "name": "Sofia Davis",
+    "review": "Excellent service and a fair price, very satisfied.",
+    "purchase_date": "2023-07-01",
+    "car_make": "Kia",
+    "car_model": "Cerato",
+    "car_year": 2019
+  },
+  {
+    "id": 182,
+    "dealer_id": 51,
+    "name": "Linda Martinez",
+    "review": "Disappointed with the condition of the car.",
+    "purchase_date": "2022-05-11",
+    "car_make": "Audi",
+    "car_model": "A4",
+    "car_year": 2023
+  },
+  {
+    "id": 183,
+    "dealer_id": 52,
+    "name": "David Jones",
+    "review": "The price was too high for what I got, would not recommend.",
+    "purchase_date": "2023-08-12",
+    "car_make": "NISSAN",
+    "car_model": "XTRAIL",
+    "car_year": 2018
+  },
+  {
+    "id": 184,
+    "dealer_id": 52,
+    "name": "Daniel Moore",
+    "review": "The staff were friendly and the car was perfect.",
+    "purchase_date": "2023-06-25",
+    "car_make": "Audi",
+    "car_model": "A6",
+    "car_year": 2020
+  },
+  {
+    "id": 185,
+    "dealer_id": 52,
+    "name": "Kevin Hernandez",
+    "review": "Fantastic services, I would definitely buy again.",
+    "purchase_date": "2023-03-01",
+    "car_make": "Mercedes",
+    "car_model": "C-Class",
+    "car_year": 2023
+  },
+  {
+    "id": 186,
+    "dealer_id": 52,
+    "name": "Robert Jackson",
+    "review": "Fantastic services, I would definitely buy again.",
+    "purchase_date": "2023-07-03",
+    "car_make": "Toyota",
+    "car_model": "Kluger",
+    "car_year": 2020
+  },
+  {
+    "id": 187,
+    "dealer_id": 53,
+    "name": "Amy Jones",
+    "review": "The staff were friendly and the car was perfect.",
+    "purchase_date": "2022-08-03",
+    "car_make": "Kia",
+    "car_model": "Carnival",
+    "car_year": 2018
+  },
+  {
+    "id": 188,
+    "dealer_id": 53,
+    "name": "Elena Miller",
+    "review": "Loved this dealership, everything went smoothly.",
+    "purchase_date": "2024-08-25",
+    "car_make": "NISSAN",
+    "car_model": "Qashqai",
+    "car_year": 2021
+  },
+  {
+    "id": 189,
+    "dealer_id": 53,
+    "name": "Brian Jackson",
+    "review": "Excellent service and a fair price, very satisfied.",
+    "purchase_date": "2022-10-16",
+    "car_make": "Toyota",
+    "car_model": "Camry",
+    "car_year": 2019
+  },
+  {
+    "id": 190,
+    "dealer_id": 54,
+    "name": "John Garcia",
+    "review": "Disappointed with the condition of the car.",
+    "purchase_date": "2022-04-11",
+    "car_make": "Toyota",
+    "car_model": "Camry",
+    "car_year": 2019
+  },
+  {
+    "id": 191,
+    "dealer_id": 54,
+    "name": "Amy Williams",
+    "review": "The car was okay, the price was reasonable.",
+    "purchase_date": "2022-08-08",
+    "car_make": "NISSAN",
+    "car_model": "XTRAIL",
+    "car_year": 2022
+  },
+  {
+    "id": 192,
+    "dealer_id": 54,
+    "name": "Anthony Thomas",
+    "review": "Great experience from start to finish, highly recommend.",
+    "purchase_date": "2022-07-20",
+    "car_make": "Kia",
+    "car_model": "Carnival",
+    "car_year": 2020
+  },
+  {
+    "id": 193,
+    "dealer_id": 55,
+    "name": "Anthony Garcia",
+    "review": "Great experience from start to finish, highly recommend.",
+    "purchase_date": "2023-09-15",
+    "car_make": "Audi",
+    "car_model": "A4",
+    "car_year": 2018
+  },
+  {
+    "id": 194,
+    "dealer_id": 55,
+    "name": "Sofia Miller",
+    "review": "The car works well, that is about all I can say.",
+    "purchase_date": "2023-07-04",
+    "car_make": "Toyota",
+    "car_model": "Corolla",
+    "car_year": 2023
+  },
+  {
+    "id": 195,
+    "dealer_id": 55,
+    "name": "Robert Brown",
+    "review": "The car works well, that is about all I can say.",
+    "purchase_date": "2023-05-08",
+    "car_make": "Audi",
+    "car_model": "A5",
+    "car_year": 2022
+  },
+  {
+    "id": 196,
+    "dealer_id": 55,
+    "name": "Grace Wilson",
+    "review": "The car works well, that is about all I can say.",
+    "purchase_date": "2022-11-20",
+    "car_make": "Kia",
+    "car_model": "Sorrento",
+    "car_year": 2018
+  },
+  {
+    "id": 197,
+    "dealer_id": 55,
+    "name": "Karen Brown",
+    "review": "Fantastic services, I would definitely buy again.",
+    "purchase_date": "2023-02-15",
+    "car_make": "NISSAN",
+    "car_model": "Pathfinder",
+    "car_year": 2020
+  },
+  {
+    "id": 198,
+    "dealer_id": 56,
+    "name": "Grace Thomas",
+    "review": "Loved this dealership, everything went smoothly.",
+    "purchase_date": "2022-12-12",
+    "car_make": "Toyota",
+    "car_model": "Kluger",
+    "car_year": 2023
+  },
+  {
+    "id": 199,
+    "dealer_id": 56,
+    "name": "Brian Smith",
+    "review": "Poor customer service and the wait was too long.",
+    "purchase_date": "2024-08-08",
+    "car_make": "Mercedes",
+    "car_model": "E-Class",
+    "car_year": 2019
+  },
+  {
+    "id": 200,
+    "dealer_id": 57,
+    "name": "Daniel Moore",
+    "review": "Wonderful experience, the car drives beautifully.",
+    "purchase_date": "2022-05-17",
+    "car_make": "Toyota",
+    "car_model": "Camry",
+    "car_year": 2021
+  },
+  {
+    "id": 201,
+    "dealer_id": 57,
+    "name": "Brian Johnson",
+    "review": "Fantastic services, I would definitely buy again.",
+    "purchase_date": "2023-01-20",
+    "car_make": "NISSAN",
+    "car_model": "XTRAIL",
+    "car_year": 2019
+  },
+  {
+    "id": 202,
+    "dealer_id": 58,
+    "name": "Carlos Martin",
+    "review": "Great experience from start to finish, highly recommend.",
+    "purchase_date": "2022-12-09",
+    "car_make": "Kia",
+    "car_model": "Carnival",
+    "car_year": 2021
+  },
+  {
+    "id": 203,
+    "dealer_id": 58,
+    "name": "David Wilson",
+    "review": "Loved this dealership, everything went smoothly.",
+    "purchase_date": "2023-05-25",
+    "car_make": "Audi",
+    "car_model": "A6",
+    "car_year": 2019
+  },
+  {
+    "id": 204,
+    "dealer_id": 58,
+    "name": "Michael Jones",
+    "review": "The car was okay, the price was reasonable.",
+    "purchase_date": "2024-12-06",
+    "car_make": "Kia",
+    "car_model": "Carnival",
+    "car_year": 2022
+  },
+  {
+    "id": 205,
+    "dealer_id": 58,
+    "name": "David Wilson",
+    "review": "Wonderful experience, the car drives beautifully.",
+    "purchase_date": "2023-09-05",
+    "car_make": "Toyota",
+    "car_model": "Kluger",
+    "car_year": 2022
+  },
+  {
+    "id": 206,
+    "dealer_id": 59,
+    "name": "Karen Jackson",
+    "review": "Great experience from start to finish, highly recommend.",
+    "purchase_date": "2022-08-03",
+    "car_make": "Toyota",
+    "car_model": "Corolla",
+    "car_year": 2018
+  },
+  {
+    "id": 207,
+    "dealer_id": 59,
+    "name": "Elena Anderson",
+    "review": "Wonderful experience, the car drives beautifully.",
+    "purchase_date": "2023-06-26",
+    "car_make": "Audi",
+    "car_model": "A6",
+    "car_year": 2023
+  },
+  {
+    "id": 208,
+    "dealer_id": 59,
+    "name": "Maria Williams",
+    "review": "Decent dealership, delivery took a bit long.",
+    "purchase_date": "2023-07-02",
+    "car_make": "NISSAN",
+    "car_model": "Qashqai",
+    "car_year": 2018
+  },
+  {
+    "id": 209,
+    "dealer_id": 60,
+    "name": "David Garcia",
+    "review": "Great experience from start to finish, highly recommend.",
+    "purchase_date": "2023-01-01",
+    "car_make": "Audi",
+    "car_model": "A4",
+    "car_year": 2022
+  },
+  {
+    "id": 210,
+    "dealer_id": 60,
+    "name": "John Lopez",
+    "review": "Bad experience, they were unhelpful and careless.",
+    "purchase_date": "2022-10-24",
+    "car_make": "Kia",
+    "car_model": "Carnival",
+    "car_year": 2019
+  },
+  {
+    "id": 211,
+    "dealer_id": 60,
+    "name": "Maria Smith",
+    "review": "Decent dealership, delivery took a bit long.",
+    "purchase_date": "2023-04-07",
+    "car_make": "Audi",
+    "car_model": "A4",
+    "car_year": 2018
+  },
+  {
+    "id": 212,
+    "dealer_id": 61,
+    "name": "Sofia Lopez",
+    "review": "Loved this dealership, everything went smoothly.",
+    "purchase_date": "2023-08-04",
+    "car_make": "NISSAN",
+    "car_model": "XTRAIL",
+    "car_year": 2023
+  },
+  {
+    "id": 213,
+    "dealer_id": 61,
+    "name": "Daniel Williams",
+    "review": "The staff were friendly and the car was perfect.",
+    "purchase_date": "2023-02-14",
+    "car_make": "Toyota",
+    "car_model": "Camry",
+    "car_year": 2020
+  },
+  {
+    "id": 214,
+    "dealer_id": 61,
+    "name": "Karen Davis",
+    "review": "Service was fine. I have no strong feelings about it.",
+    "purchase_date": "2024-10-04",
+    "car_make": "Toyota",
+    "car_model": "Kluger",
+    "car_year": 2020
+  },
+  {
+    "id": 215,
+    "dealer_id": 62,
+    "name": "Kevin Davis",
+    "review": "Loved this dealership, everything went smoothly.",
+    "purchase_date": "2024-07-05",
+    "car_make": "Audi",
+    "car_model": "A4",
+    "car_year": 2020
+  },
+  {
+    "id": 216,
+    "dealer_id": 62,
+    "name": "John Martinez",
+    "review": "Decent dealership, delivery took a bit long.",
+    "purchase_date": "2023-11-17",
+    "car_make": "Mercedes",
+    "car_model": "A-Class",
+    "car_year": 2023
+  },
+  {
+    "id": 217,
+    "dealer_id": 63,
+    "name": "Brian Wilson",
+    "review": "Wonderful experience, the car drives beautifully.",
+    "purchase_date": "2023-06-10",
+    "car_make": "Audi",
+    "car_model": "A5",
+    "car_year": 2023
+  },
+  {
+    "id": 218,
+    "dealer_id": 63,
+    "name": "Carlos Wilson",
+    "review": "Bad experience, they were unhelpful and careless.",
+    "purchase_date": "2024-02-27",
+    "car_make": "Audi",
+    "car_model": "A4",
+    "car_year": 2019
+  },
+  {
+    "id": 219,
+    "dealer_id": 63,
+    "name": "Michael Brown",
+    "review": "Loved this dealership, everything went smoothly.",
+    "purchase_date": "2022-05-24",
+    "car_make": "Audi",
+    "car_model": "A6",
+    "car_year": 2022
+  },
+  {
+    "id": 220,
+    "dealer_id": 63,
+    "name": "Elena Martinez",
+    "review": "Decent dealership, delivery took a bit long.",
+    "purchase_date": "2024-05-25",
+    "car_make": "Toyota",
+    "car_model": "Corolla",
+    "car_year": 2018
+  },
+  {
+    "id": 221,
+    "dealer_id": 63,
+    "name": "Sofia Johnson",
+    "review": "It was an average purchase, nothing special either way.",
+    "purchase_date": "2023-02-12",
+    "car_make": "Audi",
+    "car_model": "A5",
+    "car_year": 2018
+  },
+  {
+    "id": 222,
+    "dealer_id": 64,
+    "name": "Brian Smith",
+    "review": "Bad experience, they were unhelpful and careless.",
+    "purchase_date": "2024-07-08",
+    "car_make": "NISSAN",
+    "car_model": "XTRAIL",
+    "car_year": 2018
+  },
+  {
+    "id": 223,
+    "dealer_id": 64,
+    "name": "Anthony Rodriguez",
+    "review": "Excellent service and a fair price, very satisfied.",
+    "purchase_date": "2022-02-06",
+    "car_make": "Mercedes",
+    "car_model": "C-Class",
+    "car_year": 2023
+  },
+  {
+    "id": 224,
+    "dealer_id": 64,
+    "name": "Maria Martin",
+    "review": "Fantastic services, I would definitely buy again.",
+    "purchase_date": "2022-06-18",
+    "car_make": "Kia",
+    "car_model": "Carnival",
+    "car_year": 2021
+  },
+  {
+    "id": 225,
+    "dealer_id": 64,
+    "name": "Anthony Williams",
+    "review": "The staff were friendly and the car was perfect.",
+    "purchase_date": "2023-03-26",
+    "car_make": "Audi",
+    "car_model": "A5",
+    "car_year": 2023
+  },
+  {
+    "id": 226,
+    "dealer_id": 65,
+    "name": "Elena Lopez",
+    "review": "Wonderful experience, the car drives beautifully.",
+    "purchase_date": "2024-01-12",
+    "car_make": "Mercedes",
+    "car_model": "C-Class",
+    "car_year": 2023
+  },
+  {
+    "id": 227,
+    "dealer_id": 65,
+    "name": "John Miller",
+    "review": "It was an average purchase, nothing special either way.",
+    "purchase_date": "2023-09-13",
+    "car_make": "NISSAN",
+    "car_model": "XTRAIL",
+    "car_year": 2023
+  },
+  {
+    "id": 228,
+    "dealer_id": 65,
+    "name": "David Moore",
+    "review": "Wonderful experience, the car drives beautifully.",
+    "purchase_date": "2023-06-07",
+    "car_make": "Audi",
+    "car_model": "A6",
+    "car_year": 2023
+  },
+  {
+    "id": 229,
+    "dealer_id": 65,
+    "name": "James Moore",
+    "review": "The car works well, that is about all I can say.",
+    "purchase_date": "2023-10-22",
+    "car_make": "Kia",
+    "car_model": "Cerato",
+    "car_year": 2018
+  },
+  {
+    "id": 230,
+    "dealer_id": 65,
+    "name": "David Taylor",
+    "review": "Great experience from start to finish, highly recommend.",
+    "purchase_date": "2024-11-15",
+    "car_make": "Toyota",
+    "car_model": "Corolla",
+    "car_year": 2021
+  },
+  {
+    "id": 231,
+    "dealer_id": 66,
+    "name": "Maria Wilson",
+    "review": "Excellent service and a fair price, very satisfied.",
+    "purchase_date": "2022-09-26",
+    "car_make": "Toyota",
+    "car_model": "Kluger",
+    "car_year": 2019
+  },
+  {
+    "id": 232,
+    "dealer_id": 66,
+    "name": "David Jackson",
+    "review": "The car works well, that is about all I can say.",
+    "purchase_date": "2023-10-11",
+    "car_make": "Audi",
+    "car_model": "A6",
+    "car_year": 2021
+  },
+  {
+    "id": 233,
+    "dealer_id": 66,
+    "name": "Julia Martin",
+    "review": "The staff were friendly and the car was perfect.",
+    "purchase_date": "2024-05-03",
+    "car_make": "NISSAN",
+    "car_model": "Pathfinder",
+    "car_year": 2023
+  },
+  {
+    "id": 234,
+    "dealer_id": 67,
+    "name": "Karen Jones",
+    "review": "Fantastic services, I would definitely buy again.",
+    "purchase_date": "2022-12-20",
+    "car_make": "NISSAN",
+    "car_model": "Qashqai",
+    "car_year": 2021
+  },
+  {
+    "id": 235,
+    "dealer_id": 67,
+    "name": "Amy Davis",
+    "review": "Wonderful experience, the car drives beautifully.",
+    "purchase_date": "2024-08-21",
+    "car_make": "Kia",
+    "car_model": "Cerato",
+    "car_year": 2020
+  },
+  {
+    "id": 236,
+    "dealer_id": 68,
+    "name": "Linda Williams",
+    "review": "The staff were friendly and the car was perfect.",
+    "purchase_date": "2024-09-19",
+    "car_make": "NISSAN",
+    "car_model": "XTRAIL",
+    "car_year": 2021
+  },
+  {
+    "id": 237,
+    "dealer_id": 68,
+    "name": "Michael Jackson",
+    "review": "The car was okay, the price was reasonable.",
+    "purchase_date": "2023-03-20",
+    "car_make": "Audi",
+    "car_model": "A5",
+    "car_year": 2021
+  },
+  {
+    "id": 238,
+    "dealer_id": 68,
+    "name": "Nancy Rodriguez",
+    "review": "Great experience from start to finish, highly recommend.",
+    "purchase_date": "2023-09-13",
+    "car_make": "Audi",
+    "car_model": "A6",
+    "car_year": 2021
+  },
+  {
+    "id": 239,
+    "dealer_id": 68,
+    "name": "Carlos Thomas",
+    "review": "Fantastic services, I would definitely buy again.",
+    "purchase_date": "2024-08-03",
+    "car_make": "Audi",
+    "car_model": "A4",
+    "car_year": 2023
+  },
+  {
+    "id": 240,
+    "dealer_id": 69,
+    "name": "Amy Thomas",
+    "review": "Decent dealership, delivery took a bit long.",
+    "purchase_date": "2024-04-22",
+    "car_make": "NISSAN",
+    "car_model": "Pathfinder",
+    "car_year": 2019
+  },
+  {
+    "id": 241,
+    "dealer_id": 69,
+    "name": "Carlos Hernandez",
+    "review": "Fantastic services, I would definitely buy again.",
+    "purchase_date": "2024-06-13",
+    "car_make": "Audi",
+    "car_model": "A5",
+    "car_year": 2019
+  },
+  {
+    "id": 242,
+    "dealer_id": 69,
+    "name": "Daniel Brown",
+    "review": "Disappointed with the condition of the car.",
+    "purchase_date": "2022-12-27",
+    "car_make": "Mercedes",
+    "car_model": "C-Class",
+    "car_year": 2018
+  },
+  {
+    "id": 243,
+    "dealer_id": 69,
+    "name": "Linda Gonzalez",
+    "review": "Wonderful experience, the car drives beautifully.",
+    "purchase_date": "2022-04-12",
+    "car_make": "Toyota",
+    "car_model": "Kluger",
+    "car_year": 2019
+  },
+  {
+    "id": 244,
+    "dealer_id": 69,
+    "name": "Robert Lopez",
+    "review": "Fantastic services, I would definitely buy again.",
+    "purchase_date": "2024-05-01",
+    "car_make": "Mercedes",
+    "car_model": "E-Class",
+    "car_year": 2019
+  },
+  {
+    "id": 245,
+    "dealer_id": 70,
+    "name": "Julia Thomas",
+    "review": "It was an average purchase, nothing special either way.",
+    "purchase_date": "2024-01-05",
+    "car_make": "Audi",
+    "car_model": "A5",
+    "car_year": 2021
+  },
+  {
+    "id": 246,
+    "dealer_id": 70,
+    "name": "John Martin",
+    "review": "Decent dealership, delivery took a bit long.",
+    "purchase_date": "2022-05-17",
+    "car_make": "Audi",
+    "car_model": "A6",
+    "car_year": 2019
+  },
+  {
+    "id": 247,
+    "dealer_id": 70,
+    "name": "Anthony Anderson",
+    "review": "Wonderful experience, the car drives beautifully.",
+    "purchase_date": "2022-08-25",
+    "car_make": "NISSAN",
+    "car_model": "XTRAIL",
+    "car_year": 2022
+  },
+  {
+    "id": 248,
+    "dealer_id": 70,
+    "name": "Amy Garcia",
+    "review": "Bad experience, they were unhelpful and careless.",
+    "purchase_date": "2022-03-19",
+    "car_make": "NISSAN",
+    "car_model": "Pathfinder",
+    "car_year": 2019
+  },
+  {
+    "id": 249,
+    "dealer_id": 71,
+    "name": "Carlos Lopez",
+    "review": "Excellent service and a fair price, very satisfied.",
+    "purchase_date": "2024-04-20",
+    "car_make": "Mercedes",
+    "car_model": "C-Class",
+    "car_year": 2022
+  },
+  {
+    "id": 250,
+    "dealer_id": 71,
+    "name": "Carlos Gonzalez",
+    "review": "Excellent service and a fair price, very satisfied.",
+    "purchase_date": "2022-07-18",
+    "car_make": "Kia",
+    "car_model": "Cerato",
+    "car_year": 2022
+  },
+  {
+    "id": 251,
+    "dealer_id": 72,
+    "name": "Nancy Thomas",
+    "review": "Excellent service and a fair price, very satisfied.",
+    "purchase_date": "2024-06-28",
+    "car_make": "Toyota",
+    "car_model": "Kluger",
+    "car_year": 2022
+  },
+  {
+    "id": 252,
+    "dealer_id": 72,
+    "name": "Michael Brown",
+    "review": "Excellent service and a fair price, very satisfied.",
+    "purchase_date": "2022-10-02",
+    "car_make": "NISSAN",
+    "car_model": "Qashqai",
+    "car_year": 2022
+  },
+  {
+    "id": 253,
+    "dealer_id": 72,
+    "name": "Nancy Jones",
+    "review": "The price was too high for what I got, would not recommend.",
+    "purchase_date": "2023-05-10",
+    "car_make": "Mercedes",
+    "car_model": "C-Class",
+    "car_year": 2020
+  },
+  {
+    "id": 254,
+    "dealer_id": 73,
+    "name": "Nancy Moore",
+    "review": "Excellent service and a fair price, very satisfied.",
+    "purchase_date": "2023-11-08",
+    "car_make": "Mercedes",
+    "car_model": "E-Class",
+    "car_year": 2019
+  },
+  {
+    "id": 255,
+    "dealer_id": 73,
+    "name": "Nancy Hernandez",
+    "review": "The car works well, that is about all I can say.",
+    "purchase_date": "2022-02-15",
+    "car_make": "Kia",
+    "car_model": "Sorrento",
+    "car_year": 2020
+  },
+  {
+    "id": 256,
+    "dealer_id": 74,
+    "name": "Michael Williams",
+    "review": "Excellent service and a fair price, very satisfied.",
+    "purchase_date": "2022-08-22",
+    "car_make": "Audi",
+    "car_model": "A5",
+    "car_year": 2021
+  },
+  {
+    "id": 257,
+    "dealer_id": 74,
+    "name": "Nancy Lopez",
+    "review": "Excellent service and a fair price, very satisfied.",
+    "purchase_date": "2022-06-08",
+    "car_make": "Toyota",
+    "car_model": "Kluger",
+    "car_year": 2022
+  },
+  {
+    "id": 258,
+    "dealer_id": 74,
+    "name": "Laura Martin",
+    "review": "Great experience from start to finish, highly recommend.",
+    "purchase_date": "2023-10-01",
+    "car_make": "Kia",
+    "car_model": "Carnival",
+    "car_year": 2020
+  },
+  {
+    "id": 259,
+    "dealer_id": 74,
+    "name": "Laura Thomas",
+    "review": "It was an average purchase, nothing special either way.",
+    "purchase_date": "2023-01-06",
+    "car_make": "Toyota",
+    "car_model": "Corolla",
+    "car_year": 2020
+  },
+  {
+    "id": 260,
+    "dealer_id": 75,
+    "name": "Elena Jones",
+    "review": "Disappointed with the condition of the car.",
+    "purchase_date": "2022-02-20",
+    "car_make": "Kia",
+    "car_model": "Cerato",
+    "car_year": 2019
+  },
+  {
+    "id": 261,
+    "dealer_id": 75,
+    "name": "Karen Rodriguez",
+    "review": "Excellent service and a fair price, very satisfied.",
+    "purchase_date": "2024-10-26",
+    "car_make": "NISSAN",
+    "car_model": "XTRAIL",
+    "car_year": 2018
+  },
+  {
+    "id": 262,
+    "dealer_id": 76,
+    "name": "Maria Jones",
+    "review": "Fantastic services, I would definitely buy again.",
+    "purchase_date": "2024-10-25",
+    "car_make": "Toyota",
+    "car_model": "Kluger",
+    "car_year": 2023
+  },
+  {
+    "id": 263,
+    "dealer_id": 76,
+    "name": "Kevin Garcia",
+    "review": "Excellent service and a fair price, very satisfied.",
+    "purchase_date": "2023-11-02",
+    "car_make": "Toyota",
+    "car_model": "Kluger",
+    "car_year": 2019
+  },
+  {
+    "id": 264,
+    "dealer_id": 77,
+    "name": "Karen Thomas",
+    "review": "Wonderful experience, the car drives beautifully.",
+    "purchase_date": "2024-12-19",
+    "car_make": "Mercedes",
+    "car_model": "A-Class",
+    "car_year": 2020
+  },
+  {
+    "id": 265,
+    "dealer_id": 77,
+    "name": "Maria Davis",
+    "review": "Loved this dealership, everything went smoothly.",
+    "purchase_date": "2022-11-27",
+    "car_make": "Kia",
+    "car_model": "Carnival",
+    "car_year": 2023
+  },
+  {
+    "id": 266,
+    "dealer_id": 77,
+    "name": "David Johnson",
+    "review": "Fantastic services, I would definitely buy again.",
+    "purchase_date": "2023-12-18",
+    "car_make": "Mercedes",
+    "car_model": "A-Class",
+    "car_year": 2023
+  },
+  {
+    "id": 267,
+    "dealer_id": 78,
+    "name": "Elena Martinez",
+    "review": "Disappointed with the condition of the car.",
+    "purchase_date": "2023-09-06",
+    "car_make": "Toyota",
+    "car_model": "Kluger",
+    "car_year": 2018
+  },
+  {
+    "id": 268,
+    "dealer_id": 78,
+    "name": "Amy Rodriguez",
+    "review": "Great experience from start to finish, highly recommend.",
+    "purchase_date": "2023-11-21",
+    "car_make": "Kia",
+    "car_model": "Sorrento",
+    "car_year": 2021
+  },
+  {
+    "id": 269,
+    "dealer_id": 78,
+    "name": "Robert Rodriguez",
+    "review": "Worst dealership visit, the paperwork was a mess.",
+    "purchase_date": "2022-12-26",
+    "car_make": "Kia",
+    "car_model": "Sorrento",
+    "car_year": 2020
+  },
+  {
+    "id": 270,
+    "dealer_id": 79,
+    "name": "John Williams",
+    "review": "Poor customer service and the wait was too long.",
+    "purchase_date": "2023-01-21",
+    "car_make": "NISSAN",
+    "car_model": "Pathfinder",
+    "car_year": 2020
+  },
+  {
+    "id": 271,
+    "dealer_id": 79,
+    "name": "Carlos Gonzalez",
+    "review": "Great experience from start to finish, highly recommend.",
+    "purchase_date": "2023-12-20",
+    "car_make": "Toyota",
+    "car_model": "Camry",
+    "car_year": 2018
+  },
+  {
+    "id": 272,
+    "dealer_id": 79,
+    "name": "Laura Brown",
+    "review": "The staff were friendly and the car was perfect.",
+    "purchase_date": "2024-09-17",
+    "car_make": "NISSAN",
+    "car_model": "XTRAIL",
+    "car_year": 2022
+  },
+  {
+    "id": 273,
+    "dealer_id": 80,
+    "name": "Grace Hernandez",
+    "review": "Loved this dealership, everything went smoothly.",
+    "purchase_date": "2022-06-10",
+    "car_make": "Toyota",
+    "car_model": "Kluger",
+    "car_year": 2019
+  },
+  {
+    "id": 274,
+    "dealer_id": 80,
+    "name": "Linda Martin",
+    "review": "Worst dealership visit, the paperwork was a mess.",
+    "purchase_date": "2022-07-25",
+    "car_make": "Mercedes",
+    "car_model": "E-Class",
+    "car_year": 2019
+  },
+  {
+    "id": 275,
+    "dealer_id": 81,
+    "name": "Robert Wilson",
+    "review": "Great experience from start to finish, highly recommend.",
+    "purchase_date": "2022-09-03",
+    "car_make": "Kia",
+    "car_model": "Carnival",
+    "car_year": 2018
+  },
+  {
+    "id": 276,
+    "dealer_id": 81,
+    "name": "Michael Anderson",
+    "review": "The staff were friendly and the car was perfect.",
+    "purchase_date": "2024-11-14",
+    "car_make": "Audi",
+    "car_model": "A6",
+    "car_year": 2023
+  },
+  {
+    "id": 277,
+    "dealer_id": 81,
+    "name": "Grace Anderson",
+    "review": "The car was okay, the price was reasonable.",
+    "purchase_date": "2023-10-07",
+    "car_make": "Mercedes",
+    "car_model": "A-Class",
+    "car_year": 2020
+  },
+  {
+    "id": 278,
+    "dealer_id": 81,
+    "name": "Elena Gonzalez",
+    "review": "The car was okay, the price was reasonable.",
+    "purchase_date": "2023-06-25",
+    "car_make": "Mercedes",
+    "car_model": "C-Class",
+    "car_year": 2018
+  },
+  {
+    "id": 279,
+    "dealer_id": 82,
+    "name": "Daniel Hernandez",
+    "review": "Great experience from start to finish, highly recommend.",
+    "purchase_date": "2022-12-06",
+    "car_make": "Kia",
+    "car_model": "Carnival",
+    "car_year": 2019
+  },
+  {
+    "id": 280,
+    "dealer_id": 82,
+    "name": "Robert Jones",
+    "review": "Service was fine. I have no strong feelings about it.",
+    "purchase_date": "2022-09-27",
+    "car_make": "NISSAN",
+    "car_model": "XTRAIL",
+    "car_year": 2019
+  },
+  {
+    "id": 281,
+    "dealer_id": 83,
+    "name": "Amy Gonzalez",
+    "review": "Fantastic services, I would definitely buy again.",
+    "purchase_date": "2024-04-12",
+    "car_make": "Mercedes",
+    "car_model": "A-Class",
+    "car_year": 2020
+  },
+  {
+    "id": 282,
+    "dealer_id": 83,
+    "name": "Michael Wilson",
+    "review": "The staff were friendly and the car was perfect.",
+    "purchase_date": "2022-02-16",
+    "car_make": "NISSAN",
+    "car_model": "Pathfinder",
+    "car_year": 2020
+  },
+  {
+    "id": 283,
+    "dealer_id": 84,
+    "name": "Nancy Moore",
+    "review": "Loved this dealership, everything went smoothly.",
+    "purchase_date": "2024-12-02",
+    "car_make": "NISSAN",
+    "car_model": "Qashqai",
+    "car_year": 2023
+  },
+  {
+    "id": 284,
+    "dealer_id": 84,
+    "name": "Laura Lopez",
+    "review": "The car works well, that is about all I can say.",
+    "purchase_date": "2024-09-18",
+    "car_make": "Mercedes",
+    "car_model": "A-Class",
+    "car_year": 2019
+  },
+  {
+    "id": 285,
+    "dealer_id": 84,
+    "name": "Daniel Lopez",
+    "review": "Great experience from start to finish, highly recommend.",
+    "purchase_date": "2022-06-11",
+    "car_make": "Kia",
+    "car_model": "Cerato",
+    "car_year": 2021
+  },
+  {
+    "id": 286,
+    "dealer_id": 85,
+    "name": "Julia Anderson",
+    "review": "Service was fine. I have no strong feelings about it.",
+    "purchase_date": "2024-06-09",
+    "car_make": "Mercedes",
+    "car_model": "E-Class",
+    "car_year": 2018
+  },
+  {
+    "id": 287,
+    "dealer_id": 85,
+    "name": "Elena Thomas",
+    "review": "Fantastic services, I would definitely buy again.",
+    "purchase_date": "2022-01-12",
+    "car_make": "NISSAN",
+    "car_model": "XTRAIL",
+    "car_year": 2018
+  },
+  {
+    "id": 288,
+    "dealer_id": 86,
+    "name": "John Jackson",
+    "review": "Excellent service and a fair price, very satisfied.",
+    "purchase_date": "2024-03-22",
+    "car_make": "Toyota",
+    "car_model": "Kluger",
+    "car_year": 2020
+  },
+  {
+    "id": 289,
+    "dealer_id": 86,
+    "name": "Michael Moore",
+    "review": "Worst dealership visit, the paperwork was a mess.",
+    "purchase_date": "2023-11-01",
+    "car_make": "NISSAN",
+    "car_model": "Qashqai",
+    "car_year": 2019
+  },
+  {
+    "id": 290,
+    "dealer_id": 86,
+    "name": "Elena Miller",
+    "review": "Service was fine. I have no strong feelings about it.",
+    "purchase_date": "2022-07-23",
+    "car_make": "Kia",
+    "car_model": "Sorrento",
+    "car_year": 2019
+  },
+  {
+    "id": 291,
+    "dealer_id": 87,
+    "name": "David Williams",
+    "review": "Bad experience, they were unhelpful and careless.",
+    "purchase_date": "2024-03-10",
+    "car_make": "Kia",
+    "car_model": "Cerato",
+    "car_year": 2020
+  },
+  {
+    "id": 292,
+    "dealer_id": 87,
+    "name": "Carlos Martin",
+    "review": "Great experience from start to finish, highly recommend.",
+    "purchase_date": "2022-03-21",
+    "car_make": "NISSAN",
+    "car_model": "Pathfinder",
+    "car_year": 2018
+  },
+  {
+    "id": 293,
+    "dealer_id": 87,
+    "name": "James Jones",
+    "review": "Loved this dealership, everything went smoothly.",
+    "purchase_date": "2022-05-24",
+    "car_make": "NISSAN",
+    "car_model": "Qashqai",
+    "car_year": 2023
+  },
+  {
+    "id": 294,
+    "dealer_id": 88,
+    "name": "Linda Wilson",
+    "review": "Decent dealership, delivery took a bit long.",
+    "purchase_date": "2024-01-13",
+    "car_make": "Audi",
+    "car_model": "A4",
+    "car_year": 2022
+  },
+  {
+    "id": 295,
+    "dealer_id": 88,
+    "name": "Maria Rodriguez",
+    "review": "The price was too high for what I got, would not recommend.",
+    "purchase_date": "2023-11-22",
+    "car_make": "Mercedes",
+    "car_model": "A-Class",
+    "car_year": 2020
+  },
+  {
+    "id": 296,
+    "dealer_id": 88,
+    "name": "Linda Martin",
+    "review": "Poor customer service and the wait was too long.",
+    "purchase_date": "2022-05-08",
+    "car_make": "Toyota",
+    "car_model": "Camry",
+    "car_year": 2020
+  },
+  {
+    "id": 297,
+    "dealer_id": 89,
+    "name": "Linda Brown",
+    "review": "Loved this dealership, everything went smoothly.",
+    "purchase_date": "2023-07-14",
+    "car_make": "Toyota",
+    "car_model": "Corolla",
+    "car_year": 2018
+  },
+  {
+    "id": 298,
+    "dealer_id": 89,
+    "name": "Carlos Rodriguez",
+    "review": "Wonderful experience, the car drives beautifully.",
+    "purchase_date": "2024-02-10",
+    "car_make": "Audi",
+    "car_model": "A6",
+    "car_year": 2018
+  },
+  {
+    "id": 299,
+    "dealer_id": 89,
+    "name": "Carlos Davis",
+    "review": "Disappointed with the condition of the car.",
+    "purchase_date": "2024-02-02",
+    "car_make": "Mercedes",
+    "car_model": "E-Class",
+    "car_year": 2020
+  },
+  {
+    "id": 300,
+    "dealer_id": 89,
+    "name": "Maria Martinez",
+    "review": "Worst dealership visit, the paperwork was a mess.",
+    "purchase_date": "2023-02-28",
+    "car_make": "Mercedes",
+    "car_model": "C-Class",
+    "car_year": 2018
+  },
+  {
+    "id": 301,
+    "dealer_id": 90,
+    "name": "Amy Williams",
+    "review": "Loved this dealership, everything went smoothly.",
+    "purchase_date": "2023-03-12",
+    "car_make": "Mercedes",
+    "car_model": "A-Class",
+    "car_year": 2019
+  },
+  {
+    "id": 302,
+    "dealer_id": 90,
+    "name": "Maria Hernandez",
+    "review": "The staff were friendly and the car was perfect.",
+    "purchase_date": "2022-03-20",
+    "car_make": "NISSAN",
+    "car_model": "Pathfinder",
+    "car_year": 2018
+  },
+  {
+    "id": 303,
+    "dealer_id": 90,
+    "name": "James Martinez",
+    "review": "Fantastic services, I would definitely buy again.",
+    "purchase_date": "2023-05-18",
+    "car_make": "Toyota",
+    "car_model": "Camry",
+    "car_year": 2023
+  },
+  {
+    "id": 304,
+    "dealer_id": 91,
+    "name": "Sofia Martin",
+    "review": "Worst dealership visit, the paperwork was a mess.",
+    "purchase_date": "2022-11-28",
+    "car_make": "Mercedes",
+    "car_model": "A-Class",
+    "car_year": 2020
+  },
+  {
+    "id": 305,
+    "dealer_id": 91,
+    "name": "Brian Moore",
+    "review": "Service was fine. I have no strong feelings about it.",
+    "purchase_date": "2023-09-25",
+    "car_make": "NISSAN",
+    "car_model": "Pathfinder",
+    "car_year": 2023
+  },
+  {
+    "id": 306,
+    "dealer_id": 91,
+    "name": "Sofia Taylor",
+    "review": "The price was too high for what I got, would not recommend.",
+    "purchase_date": "2024-09-19",
+    "car_make": "Audi",
+    "car_model": "A6",
+    "car_year": 2018
+  },
+  {
+    "id": 307,
+    "dealer_id": 91,
+    "name": "John Johnson",
+    "review": "Excellent service and a fair price, very satisfied.",
+    "purchase_date": "2024-10-13",
+    "car_make": "Toyota",
+    "car_model": "Corolla",
+    "car_year": 2021
+  },
+  {
+    "id": 308,
+    "dealer_id": 92,
+    "name": "Kevin Garcia",
+    "review": "Great experience from start to finish, highly recommend.",
+    "purchase_date": "2024-07-23",
+    "car_make": "NISSAN",
+    "car_model": "XTRAIL",
+    "car_year": 2020
+  },
+  {
+    "id": 309,
+    "dealer_id": 92,
+    "name": "Sofia Brown",
+    "review": "Loved this dealership, everything went smoothly.",
+    "purchase_date": "2024-11-20",
+    "car_make": "Toyota",
+    "car_model": "Kluger",
+    "car_year": 2019
+  },
+  {
+    "id": 310,
+    "dealer_id": 92,
+    "name": "Brian Garcia",
+    "review": "Poor customer service and the wait was too long.",
+    "purchase_date": "2023-08-19",
+    "car_make": "Kia",
+    "car_model": "Carnival",
+    "car_year": 2022
+  },
+  {
+    "id": 311,
+    "dealer_id": 92,
+    "name": "Linda Gonzalez",
+    "review": "It was an average purchase, nothing special either way.",
+    "purchase_date": "2023-10-26",
+    "car_make": "Toyota",
+    "car_model": "Kluger",
+    "car_year": 2020
+  },
+  {
+    "id": 312,
+    "dealer_id": 92,
+    "name": "Julia Wilson",
+    "review": "Loved this dealership, everything went smoothly.",
+    "purchase_date": "2022-04-08",
+    "car_make": "Kia",
+    "car_model": "Sorrento",
+    "car_year": 2019
+  },
+  {
+    "id": 313,
+    "dealer_id": 93,
+    "name": "James Anderson",
+    "review": "Great experience from start to finish, highly recommend.",
+    "purchase_date": "2024-12-21",
+    "car_make": "Toyota",
+    "car_model": "Corolla",
+    "car_year": 2021
+  },
+  {
+    "id": 314,
+    "dealer_id": 93,
+    "name": "Maria Smith",
+    "review": "Worst dealership visit, the paperwork was a mess.",
+    "purchase_date": "2024-10-21",
+    "car_make": "Mercedes",
+    "car_model": "A-Class",
+    "car_year": 2020
+  },
+  {
+    "id": 315,
+    "dealer_id": 93,
+    "name": "Sofia Taylor",
+    "review": "The staff were friendly and the car was perfect.",
+    "purchase_date": "2024-11-28",
+    "car_make": "Audi",
+    "car_model": "A6",
+    "car_year": 2018
+  },
+  {
+    "id": 316,
+    "dealer_id": 93,
+    "name": "Grace Martinez",
+    "review": "Excellent service and a fair price, very satisfied.",
+    "purchase_date": "2024-12-21",
+    "car_make": "NISSAN",
+    "car_model": "Qashqai",
+    "car_year": 2021
+  },
+  {
+    "id": 317,
+    "dealer_id": 93,
+    "name": "Julia Hernandez",
+    "review": "Excellent service and a fair price, very satisfied.",
+    "purchase_date": "2023-10-19",
+    "car_make": "NISSAN",
+    "car_model": "XTRAIL",
+    "car_year": 2023
+  },
+  {
+    "id": 318,
+    "dealer_id": 94,
+    "name": "Anthony Gonzalez",
+    "review": "The staff were friendly and the car was perfect.",
+    "purchase_date": "2023-11-22",
+    "car_make": "Audi",
+    "car_model": "A4",
+    "car_year": 2019
+  },
+  {
+    "id": 319,
+    "dealer_id": 94,
+    "name": "Michael Johnson",
+    "review": "The staff were friendly and the car was perfect.",
+    "purchase_date": "2022-11-06",
+    "car_make": "Toyota",
+    "car_model": "Corolla",
+    "car_year": 2023
+  },
+  {
+    "id": 320,
+    "dealer_id": 94,
+    "name": "Julia Lopez",
+    "review": "Bad experience, they were unhelpful and careless.",
+    "purchase_date": "2023-08-27",
+    "car_make": "Audi",
+    "car_model": "A6",
+    "car_year": 2020
+  },
+  {
+    "id": 321,
+    "dealer_id": 95,
+    "name": "Laura Johnson",
+    "review": "Excellent service and a fair price, very satisfied.",
+    "purchase_date": "2022-11-05",
+    "car_make": "Audi",
+    "car_model": "A6",
+    "car_year": 2018
+  },
+  {
+    "id": 322,
+    "dealer_id": 95,
+    "name": "Amy Taylor",
+    "review": "The price was too high for what I got, would not recommend.",
+    "purchase_date": "2022-06-24",
+    "car_make": "Kia",
+    "car_model": "Sorrento",
+    "car_year": 2018
+  },
+  {
+    "id": 323,
+    "dealer_id": 95,
+    "name": "Robert Brown",
+    "review": "Service was fine. I have no strong feelings about it.",
+    "purchase_date": "2023-09-17",
+    "car_make": "Kia",
+    "car_model": "Cerato",
+    "car_year": 2023
+  },
+  {
+    "id": 324,
+    "dealer_id": 95,
+    "name": "Anthony Smith",
+    "review": "Service was fine. I have no strong feelings about it.",
+    "purchase_date": "2022-10-25",
+    "car_make": "Audi",
+    "car_model": "A4",
+    "car_year": 2021
+  },
+  {
+    "id": 325,
+    "dealer_id": 96,
+    "name": "Grace Gonzalez",
+    "review": "Loved this dealership, everything went smoothly.",
+    "purchase_date": "2024-01-25",
+    "car_make": "Audi",
+    "car_model": "A6",
+    "car_year": 2022
+  },
+  {
+    "id": 326,
+    "dealer_id": 96,
+    "name": "Michael Moore",
+    "review": "Loved this dealership, everything went smoothly.",
+    "purchase_date": "2022-06-20",
+    "car_make": "Audi",
+    "car_model": "A6",
+    "car_year": 2020
+  },
+  {
+    "id": 327,
+    "dealer_id": 96,
+    "name": "David Lopez",
+    "review": "Decent dealership, delivery took a bit long.",
+    "purchase_date": "2023-05-21",
+    "car_make": "Mercedes",
+    "car_model": "C-Class",
+    "car_year": 2019
+  },
+  {
+    "id": 328,
+    "dealer_id": 97,
+    "name": "Carlos Martin",
+    "review": "Wonderful experience, the car drives beautifully.",
+    "purchase_date": "2024-02-22",
+    "car_make": "Audi",
+    "car_model": "A6",
+    "car_year": 2022
+  },
+  {
+    "id": 329,
+    "dealer_id": 97,
+    "name": "Michael Martin",
+    "review": "Loved this dealership, everything went smoothly.",
+    "purchase_date": "2023-02-21",
+    "car_make": "Kia",
+    "car_model": "Carnival",
+    "car_year": 2020
+  },
+  {
+    "id": 330,
+    "dealer_id": 97,
+    "name": "Maria Johnson",
+    "review": "Poor customer service and the wait was too long.",
+    "purchase_date": "2023-12-02",
+    "car_make": "Kia",
+    "car_model": "Cerato",
+    "car_year": 2019
+  },
+  {
+    "id": 331,
+    "dealer_id": 98,
+    "name": "Brian Garcia",
+    "review": "Decent dealership, delivery took a bit long.",
+    "purchase_date": "2022-03-05",
+    "car_make": "NISSAN",
+    "car_model": "XTRAIL",
+    "car_year": 2022
+  },
+  {
+    "id": 332,
+    "dealer_id": 98,
+    "name": "Elena Gonzalez",
+    "review": "Excellent service and a fair price, very satisfied.",
+    "purchase_date": "2023-10-06",
+    "car_make": "Audi",
+    "car_model": "A5",
+    "car_year": 2022
+  },
+  {
+    "id": 333,
+    "dealer_id": 98,
+    "name": "Kevin Gonzalez",
+    "review": "Bad experience, they were unhelpful and careless.",
+    "purchase_date": "2022-05-07",
+    "car_make": "Kia",
+    "car_model": "Sorrento",
+    "car_year": 2021
+  },
+  {
+    "id": 334,
+    "dealer_id": 98,
+    "name": "Anthony Rodriguez",
+    "review": "Excellent service and a fair price, very satisfied.",
+    "purchase_date": "2023-07-24",
+    "car_make": "Toyota",
+    "car_model": "Corolla",
+    "car_year": 2022
+  },
+  {
+    "id": 335,
+    "dealer_id": 98,
+    "name": "Linda Wilson",
+    "review": "The car works well, that is about all I can say.",
+    "purchase_date": "2022-01-09",
+    "car_make": "NISSAN",
+    "car_model": "XTRAIL",
+    "car_year": 2020
+  },
+  {
+    "id": 336,
+    "dealer_id": 99,
+    "name": "David Anderson",
+    "review": "Service was fine. I have no strong feelings about it.",
+    "purchase_date": "2023-01-20",
+    "car_make": "Mercedes",
+    "car_model": "C-Class",
+    "car_year": 2021
+  },
+  {
+    "id": 337,
+    "dealer_id": 99,
+    "name": "Elena Thomas",
+    "review": "Poor customer service and the wait was too long.",
+    "purchase_date": "2022-07-22",
+    "car_make": "Toyota",
+    "car_model": "Kluger",
+    "car_year": 2022
+  },
+  {
+    "id": 338,
+    "dealer_id": 99,
+    "name": "Anthony Rodriguez",
+    "review": "Great experience from start to finish, highly recommend.",
+    "purchase_date": "2022-07-23",
+    "car_make": "Kia",
+    "car_model": "Carnival",
+    "car_year": 2018
+  },
+  {
+    "id": 339,
+    "dealer_id": 100,
+    "name": "John Lopez",
+    "review": "Wonderful experience, the car drives beautifully.",
+    "purchase_date": "2024-04-13",
+    "car_make": "Kia",
+    "car_model": "Cerato",
+    "car_year": 2018
+  },
+  {
+    "id": 340,
+    "dealer_id": 100,
+    "name": "John Jackson",
+    "review": "The price was too high for what I got, would not recommend.",
+    "purchase_date": "2024-10-03",
+    "car_make": "Kia",
+    "car_model": "Cerato",
+    "car_year": 2022
+  },
+  {
+    "id": 341,
+    "dealer_id": 101,
+    "name": "Karen Garcia",
+    "review": "Fantastic services, I would definitely buy again.",
+    "purchase_date": "2024-02-11",
+    "car_make": "Audi",
+    "car_model": "A4",
+    "car_year": 2018
+  },
+  {
+    "id": 342,
+    "dealer_id": 101,
+    "name": "Sofia Taylor",
+    "review": "Worst dealership visit, the paperwork was a mess.",
+    "purchase_date": "2022-09-15",
+    "car_make": "Toyota",
+    "car_model": "Kluger",
+    "car_year": 2019
+  },
+  {
+    "id": 343,
+    "dealer_id": 102,
+    "name": "Linda Anderson",
+    "review": "It was an average purchase, nothing special either way.",
+    "purchase_date": "2022-06-21",
+    "car_make": "NISSAN",
+    "car_model": "XTRAIL",
+    "car_year": 2023
+  },
+  {
+    "id": 344,
+    "dealer_id": 102,
+    "name": "Maria Rodriguez",
+    "review": "Loved this dealership, everything went smoothly.",
+    "purchase_date": "2024-09-22",
+    "car_make": "Kia",
+    "car_model": "Carnival",
+    "car_year": 2019
+  },
+  {
+    "id": 345,
+    "dealer_id": 103,
+    "name": "Anthony Miller",
+    "review": "Loved this dealership, everything went smoothly.",
+    "purchase_date": "2024-07-27",
+    "car_make": "Toyota",
+    "car_model": "Corolla",
+    "car_year": 2022
+  },
+  {
+    "id": 346,
+    "dealer_id": 103,
+    "name": "Brian Martinez",
+    "review": "Worst dealership visit, the paperwork was a mess.",
+    "purchase_date": "2024-06-26",
+    "car_make": "NISSAN",
+    "car_model": "Pathfinder",
+    "car_year": 2023
+  },
+  {
+    "id": 347,
+    "dealer_id": 103,
+    "name": "Kevin Johnson",
+    "review": "It was an average purchase, nothing special either way.",
+    "purchase_date": "2022-06-01",
+    "car_make": "NISSAN",
+    "car_model": "XTRAIL",
+    "car_year": 2020
+  },
+  {
+    "id": 348,
+    "dealer_id": 104,
+    "name": "Anthony Williams",
+    "review": "Loved this dealership, everything went smoothly.",
+    "purchase_date": "2022-10-09",
+    "car_make": "Toyota",
+    "car_model": "Kluger",
+    "car_year": 2020
+  },
+  {
+    "id": 349,
+    "dealer_id": 104,
+    "name": "Maria Miller",
+    "review": "Decent dealership, delivery took a bit long.",
+    "purchase_date": "2023-11-26",
+    "car_make": "NISSAN",
+    "car_model": "XTRAIL",
+    "car_year": 2022
+  },
+  {
+    "id": 350,
+    "dealer_id": 105,
+    "name": "Grace Moore",
+    "review": "Excellent service and a fair price, very satisfied.",
+    "purchase_date": "2024-02-18",
+    "car_make": "Toyota",
+    "car_model": "Camry",
+    "car_year": 2018
+  },
+  {
+    "id": 351,
+    "dealer_id": 105,
+    "name": "Maria Rodriguez",
+    "review": "Loved this dealership, everything went smoothly.",
+    "purchase_date": "2023-09-11",
+    "car_make": "Kia",
+    "car_model": "Cerato",
+    "car_year": 2023
+  },
+  {
+    "id": 352,
+    "dealer_id": 105,
+    "name": "Elena Davis",
+    "review": "Excellent service and a fair price, very satisfied.",
+    "purchase_date": "2024-11-18",
+    "car_make": "Mercedes",
+    "car_model": "E-Class",
+    "car_year": 2023
+  },
+  {
+    "id": 353,
+    "dealer_id": 106,
+    "name": "Nancy Lopez",
+    "review": "The car works well, that is about all I can say.",
+    "purchase_date": "2023-02-05",
+    "car_make": "Toyota",
+    "car_model": "Camry",
+    "car_year": 2021
+  },
+  {
+    "id": 354,
+    "dealer_id": 106,
+    "name": "Laura Williams",
+    "review": "The price was too high for what I got, would not recommend.",
+    "purchase_date": "2024-05-08",
+    "car_make": "NISSAN",
+    "car_model": "Pathfinder",
+    "car_year": 2019
+  },
+  {
+    "id": 355,
+    "dealer_id": 107,
+    "name": "Anthony Martinez",
+    "review": "Excellent service and a fair price, very satisfied.",
+    "purchase_date": "2022-06-12",
+    "car_make": "Audi",
+    "car_model": "A4",
+    "car_year": 2020
+  },
+  {
+    "id": 356,
+    "dealer_id": 107,
+    "name": "Grace Rodriguez",
+    "review": "It was an average purchase, nothing special either way.",
+    "purchase_date": "2024-10-03",
+    "car_make": "Kia",
+    "car_model": "Cerato",
+    "car_year": 2022
+  },
+  {
+    "id": 357,
+    "dealer_id": 107,
+    "name": "Nancy Taylor",
+    "review": "The car works well, that is about all I can say.",
+    "purchase_date": "2022-09-26",
+    "car_make": "Kia",
+    "car_model": "Carnival",
+    "car_year": 2022
+  },
+  {
+    "id": 358,
+    "dealer_id": 107,
+    "name": "Brian Martinez",
+    "review": "The car works well, that is about all I can say.",
+    "purchase_date": "2022-03-02",
+    "car_make": "Toyota",
+    "car_model": "Camry",
+    "car_year": 2020
+  },
+  {
+    "id": 359,
+    "dealer_id": 107,
+    "name": "Laura Hernandez",
+    "review": "Great experience from start to finish, highly recommend.",
+    "purchase_date": "2022-11-26",
+    "car_make": "Kia",
+    "car_model": "Cerato",
+    "car_year": 2023
+  },
+  {
+    "id": 360,
+    "dealer_id": 108,
+    "name": "Karen Wilson",
+    "review": "Bad experience, they were unhelpful and careless.",
+    "purchase_date": "2022-05-04",
+    "car_make": "Toyota",
+    "car_model": "Camry",
+    "car_year": 2022
+  },
+  {
+    "id": 361,
+    "dealer_id": 108,
+    "name": "Michael Brown",
+    "review": "Disappointed with the condition of the car.",
+    "purchase_date": "2022-06-08",
+    "car_make": "NISSAN",
+    "car_model": "XTRAIL",
+    "car_year": 2019
+  },
+  {
+    "id": 362,
+    "dealer_id": 108,
+    "name": "Amy Wilson",
+    "review": "Disappointed with the condition of the car.",
+    "purchase_date": "2024-08-04",
+    "car_make": "Mercedes",
+    "car_model": "A-Class",
+    "car_year": 2021
+  },
+  {
+    "id": 363,
+    "dealer_id": 109,
+    "name": "Sofia Williams",
+    "review": "Loved this dealership, everything went smoothly.",
+    "purchase_date": "2023-05-23",
+    "car_make": "Mercedes",
+    "car_model": "A-Class",
+    "car_year": 2018
+  },
+  {
+    "id": 364,
+    "dealer_id": 109,
+    "name": "Linda Martinez",
+    "review": "Wonderful experience, the car drives beautifully.",
+    "purchase_date": "2023-05-15",
+    "car_make": "Kia",
+    "car_model": "Carnival",
+    "car_year": 2021
+  },
+  {
+    "id": 365,
+    "dealer_id": 109,
+    "name": "Anthony Jackson",
+    "review": "Fantastic services, I would definitely buy again.",
+    "purchase_date": "2023-07-18",
+    "car_make": "Audi",
+    "car_model": "A5",
+    "car_year": 2019
+  },
+  {
+    "id": 366,
+    "dealer_id": 110,
+    "name": "John Anderson",
+    "review": "Excellent service and a fair price, very satisfied.",
+    "purchase_date": "2022-06-26",
+    "car_make": "Kia",
+    "car_model": "Cerato",
+    "car_year": 2022
+  },
+  {
+    "id": 367,
+    "dealer_id": 110,
+    "name": "Grace Martin",
+    "review": "Wonderful experience, the car drives beautifully.",
+    "purchase_date": "2022-01-19",
+    "car_make": "Toyota",
+    "car_model": "Kluger",
+    "car_year": 2023
+  },
+  {
+    "id": 368,
+    "dealer_id": 110,
+    "name": "Carlos Davis",
+    "review": "Excellent service and a fair price, very satisfied.",
+    "purchase_date": "2023-07-16",
+    "car_make": "Kia",
+    "car_model": "Cerato",
+    "car_year": 2019
+  },
+  {
+    "id": 369,
+    "dealer_id": 111,
+    "name": "Karen Jackson",
+    "review": "Poor customer service and the wait was too long.",
+    "purchase_date": "2023-03-23",
+    "car_make": "Kia",
+    "car_model": "Sorrento",
+    "car_year": 2021
+  },
+  {
+    "id": 370,
+    "dealer_id": 111,
+    "name": "Daniel Moore",
+    "review": "Great experience from start to finish, highly recommend.",
+    "purchase_date": "2023-01-20",
+    "car_make": "Mercedes",
+    "car_model": "C-Class",
+    "car_year": 2020
+  },
+  {
+    "id": 371,
+    "dealer_id": 111,
+    "name": "James Anderson",
+    "review": "Loved this dealership, everything went smoothly.",
+    "purchase_date": "2023-10-01",
+    "car_make": "Mercedes",
+    "car_model": "E-Class",
+    "car_year": 2022
+  },
+  {
+    "id": 372,
+    "dealer_id": 111,
+    "name": "Amy Gonzalez",
+    "review": "Wonderful experience, the car drives beautifully.",
+    "purchase_date": "2023-05-20",
+    "car_make": "Toyota",
+    "car_model": "Kluger",
+    "car_year": 2018
+  },
+  {
+    "id": 373,
+    "dealer_id": 112,
+    "name": "Daniel Jackson",
+    "review": "Disappointed with the condition of the car.",
+    "purchase_date": "2022-07-15",
+    "car_make": "Mercedes",
+    "car_model": "E-Class",
+    "car_year": 2020
+  },
+  {
+    "id": 374,
+    "dealer_id": 112,
+    "name": "Amy Taylor",
+    "review": "Fantastic services, I would definitely buy again.",
+    "purchase_date": "2024-07-17",
+    "car_make": "NISSAN",
+    "car_model": "Pathfinder",
+    "car_year": 2018
+  },
+  {
+    "id": 375,
+    "dealer_id": 112,
+    "name": "Laura Rodriguez",
+    "review": "Excellent service and a fair price, very satisfied.",
+    "purchase_date": "2024-06-17",
+    "car_make": "Toyota",
+    "car_model": "Camry",
+    "car_year": 2023
+  },
+  {
+    "id": 376,
+    "dealer_id": 112,
+    "name": "Kevin Jones",
+    "review": "Fantastic services, I would definitely buy again.",
+    "purchase_date": "2024-10-15",
+    "car_make": "Audi",
+    "car_model": "A4",
+    "car_year": 2022
+  },
+  {
+    "id": 377,
+    "dealer_id": 113,
+    "name": "Maria Moore",
+    "review": "Poor customer service and the wait was too long.",
+    "purchase_date": "2024-01-19",
+    "car_make": "Audi",
+    "car_model": "A5",
+    "car_year": 2023
+  },
+  {
+    "id": 378,
+    "dealer_id": 113,
+    "name": "Michael Jones",
+    "review": "The staff were friendly and the car was perfect.",
+    "purchase_date": "2024-04-22",
+    "car_make": "Toyota",
+    "car_model": "Corolla",
+    "car_year": 2019
+  },
+  {
+    "id": 379,
+    "dealer_id": 114,
+    "name": "Michael Jones",
+    "review": "Disappointed with the condition of the car.",
+    "purchase_date": "2022-07-18",
+    "car_make": "NISSAN",
+    "car_model": "XTRAIL",
+    "car_year": 2023
+  },
+  {
+    "id": 380,
+    "dealer_id": 114,
+    "name": "Karen Thomas",
+    "review": "Wonderful experience, the car drives beautifully.",
+    "purchase_date": "2022-06-19",
+    "car_make": "Kia",
+    "car_model": "Sorrento",
+    "car_year": 2021
+  },
+  {
+    "id": 381,
+    "dealer_id": 115,
+    "name": "Laura Miller",
+    "review": "Wonderful experience, the car drives beautifully.",
+    "purchase_date": "2024-07-26",
+    "car_make": "Kia",
+    "car_model": "Cerato",
+    "car_year": 2019
+  },
+  {
+    "id": 382,
+    "dealer_id": 115,
+    "name": "Nancy Jackson",
+    "review": "It was an average purchase, nothing special either way.",
+    "purchase_date": "2023-12-17",
+    "car_make": "Mercedes",
+    "car_model": "C-Class",
+    "car_year": 2021
+  },
+  {
+    "id": 383,
+    "dealer_id": 116,
+    "name": "John Moore",
+    "review": "Excellent service and a fair price, very satisfied.",
+    "purchase_date": "2023-06-02",
+    "car_make": "Toyota",
+    "car_model": "Kluger",
+    "car_year": 2023
+  },
+  {
+    "id": 384,
+    "dealer_id": 116,
+    "name": "Nancy Martin",
+    "review": "The price was too high for what I got, would not recommend.",
+    "purchase_date": "2022-07-16",
+    "car_make": "Audi",
+    "car_model": "A6",
+    "car_year": 2018
+  },
+  {
+    "id": 385,
+    "dealer_id": 117,
+    "name": "Sofia Gonzalez",
+    "review": "Decent dealership, delivery took a bit long.",
+    "purchase_date": "2024-05-10",
+    "car_make": "Kia",
+    "car_model": "Cerato",
+    "car_year": 2023
+  },
+  {
+    "id": 386,
+    "dealer_id": 117,
+    "name": "Carlos Taylor",
+    "review": "Poor customer service and the wait was too long.",
+    "purchase_date": "2024-04-04",
+    "car_make": "Kia",
+    "car_model": "Cerato",
+    "car_year": 2021
+  },
+  {
+    "id": 387,
+    "dealer_id": 117,
+    "name": "Brian Hernandez",
+    "review": "Fantastic services, I would definitely buy again.",
+    "purchase_date": "2023-05-23",
+    "car_make": "Kia",
+    "car_model": "Cerato",
+    "car_year": 2019
+  },
+  {
+    "id": 388,
+    "dealer_id": 118,
+    "name": "John Rodriguez",
+    "review": "Fantastic services, I would definitely buy again.",
+    "purchase_date": "2023-03-06",
+    "car_make": "Toyota",
+    "car_model": "Corolla",
+    "car_year": 2018
+  },
+  {
+    "id": 389,
+    "dealer_id": 118,
+    "name": "Daniel Smith",
+    "review": "Poor customer service and the wait was too long.",
+    "purchase_date": "2024-12-24",
+    "car_make": "Mercedes",
+    "car_model": "E-Class",
+    "car_year": 2020
+  },
+  {
+    "id": 390,
+    "dealer_id": 118,
+    "name": "Brian Jones",
+    "review": "Excellent service and a fair price, very satisfied.",
+    "purchase_date": "2022-01-13",
+    "car_make": "Audi",
+    "car_model": "A6",
+    "car_year": 2018
+  },
+  {
+    "id": 391,
+    "dealer_id": 119,
+    "name": "Karen Moore",
+    "review": "Wonderful experience, the car drives beautifully.",
+    "purchase_date": "2024-05-02",
+    "car_make": "Kia",
+    "car_model": "Sorrento",
+    "car_year": 2021
+  },
+  {
+    "id": 392,
+    "dealer_id": 119,
+    "name": "Brian Williams",
+    "review": "Service was fine. I have no strong feelings about it.",
+    "purchase_date": "2024-03-22",
+    "car_make": "Toyota",
+    "car_model": "Camry",
+    "car_year": 2021
+  },
+  {
+    "id": 393,
+    "dealer_id": 119,
+    "name": "James Rodriguez",
+    "review": "Great experience from start to finish, highly recommend.",
+    "purchase_date": "2024-07-11",
+    "car_make": "Toyota",
+    "car_model": "Camry",
+    "car_year": 2018
+  },
+  {
+    "id": 394,
+    "dealer_id": 120,
+    "name": "Elena Jackson",
+    "review": "Wonderful experience, the car drives beautifully.",
+    "purchase_date": "2022-07-12",
+    "car_make": "Kia",
+    "car_model": "Cerato",
+    "car_year": 2020
+  },
+  {
+    "id": 395,
+    "dealer_id": 120,
+    "name": "Anthony Martinez",
+    "review": "The staff were friendly and the car was perfect.",
+    "purchase_date": "2024-04-17",
+    "car_make": "Toyota",
+    "car_model": "Camry",
+    "car_year": 2018
+  },
+  {
+    "id": 396,
+    "dealer_id": 120,
+    "name": "Elena Smith",
+    "review": "Service was fine. I have no strong feelings about it.",
+    "purchase_date": "2022-01-19",
+    "car_make": "Kia",
+    "car_model": "Carnival",
+    "car_year": 2019
+  },
+  {
+    "id": 397,
+    "dealer_id": 120,
+    "name": "Grace Gonzalez",
+    "review": "Fantastic services, I would definitely buy again.",
+    "purchase_date": "2022-04-20",
+    "car_make": "Audi",
+    "car_model": "A5",
+    "car_year": 2019
+  },
+  {
+    "id": 398,
+    "dealer_id": 120,
+    "name": "David Jackson",
+    "review": "Wonderful experience, the car drives beautifully.",
+    "purchase_date": "2024-06-08",
+    "car_make": "Audi",
+    "car_model": "A5",
+    "car_year": 2019
+  },
+  {
+    "id": 399,
+    "dealer_id": 121,
+    "name": "Nancy Lopez",
+    "review": "The car was okay, the price was reasonable.",
+    "purchase_date": "2024-04-14",
+    "car_make": "Kia",
+    "car_model": "Cerato",
+    "car_year": 2018
+  },
+  {
+    "id": 400,
+    "dealer_id": 121,
+    "name": "Daniel Gonzalez",
+    "review": "Decent dealership, delivery took a bit long.",
+    "purchase_date": "2022-01-08",
+    "car_make": "NISSAN",
+    "car_model": "Qashqai",
+    "car_year": 2022
+  },
+  {
+    "id": 401,
+    "dealer_id": 121,
+    "name": "Daniel Johnson",
+    "review": "Loved this dealership, everything went smoothly.",
+    "purchase_date": "2023-04-28",
+    "car_make": "Kia",
+    "car_model": "Cerato",
+    "car_year": 2018
+  },
+  {
+    "id": 402,
+    "dealer_id": 121,
+    "name": "Karen Smith",
+    "review": "Great experience from start to finish, highly recommend.",
+    "purchase_date": "2022-08-12",
+    "car_make": "Toyota",
+    "car_model": "Kluger",
+    "car_year": 2018
+  },
+  {
+    "id": 403,
+    "dealer_id": 122,
+    "name": "James Martin",
+    "review": "Wonderful experience, the car drives beautifully.",
+    "purchase_date": "2023-01-28",
+    "car_make": "Toyota",
+    "car_model": "Kluger",
+    "car_year": 2023
+  },
+  {
+    "id": 404,
+    "dealer_id": 122,
+    "name": "Carlos Brown",
+    "review": "The car works well, that is about all I can say.",
+    "purchase_date": "2024-08-28",
+    "car_make": "Toyota",
+    "car_model": "Camry",
+    "car_year": 2022
+  },
+  {
+    "id": 405,
+    "dealer_id": 122,
+    "name": "Nancy Thomas",
+    "review": "The staff were friendly and the car was perfect.",
+    "purchase_date": "2023-12-02",
+    "car_make": "Audi",
+    "car_model": "A5",
+    "car_year": 2020
+  },
+  {
+    "id": 406,
+    "dealer_id": 122,
+    "name": "Grace Davis",
+    "review": "Disappointed with the condition of the car.",
+    "purchase_date": "2023-12-28",
+    "car_make": "Mercedes",
+    "car_model": "E-Class",
+    "car_year": 2019
+  },
+  {
+    "id": 407,
+    "dealer_id": 123,
+    "name": "James Garcia",
+    "review": "Excellent service and a fair price, very satisfied.",
+    "purchase_date": "2024-07-09",
+    "car_make": "Kia",
+    "car_model": "Cerato",
+    "car_year": 2022
+  },
+  {
+    "id": 408,
+    "dealer_id": 123,
+    "name": "Amy Martinez",
+    "review": "The staff were friendly and the car was perfect.",
+    "purchase_date": "2024-03-09",
+    "car_make": "NISSAN",
+    "car_model": "Pathfinder",
+    "car_year": 2021
+  },
+  {
+    "id": 409,
+    "dealer_id": 123,
+    "name": "David Wilson",
+    "review": "The price was too high for what I got, would not recommend.",
+    "purchase_date": "2022-02-28",
+    "car_make": "Kia",
+    "car_model": "Sorrento",
+    "car_year": 2023
+  },
+  {
+    "id": 410,
+    "dealer_id": 123,
+    "name": "Sofia Rodriguez",
+    "review": "Great experience from start to finish, highly recommend.",
+    "purchase_date": "2022-05-02",
+    "car_make": "Kia",
+    "car_model": "Carnival",
+    "car_year": 2018
+  },
+  {
+    "id": 411,
+    "dealer_id": 123,
+    "name": "Karen Martinez",
+    "review": "It was an average purchase, nothing special either way.",
+    "purchase_date": "2024-11-03",
+    "car_make": "Kia",
+    "car_model": "Cerato",
+    "car_year": 2019
+  },
+  {
+    "id": 412,
+    "dealer_id": 124,
+    "name": "Amy Hernandez",
+    "review": "Service was fine. I have no strong feelings about it.",
+    "purchase_date": "2023-01-14",
+    "car_make": "Toyota",
+    "car_model": "Corolla",
+    "car_year": 2022
+  },
+  {
+    "id": 413,
+    "dealer_id": 124,
+    "name": "John Gonzalez",
+    "review": "Wonderful experience, the car drives beautifully.",
+    "purchase_date": "2023-08-19",
+    "car_make": "Kia",
+    "car_model": "Cerato",
+    "car_year": 2022
+  },
+  {
+    "id": 414,
+    "dealer_id": 124,
+    "name": "James Thomas",
+    "review": "Great experience from start to finish, highly recommend.",
+    "purchase_date": "2023-08-16",
+    "car_make": "Audi",
+    "car_model": "A4",
+    "car_year": 2019
+  },
+  {
+    "id": 415,
+    "dealer_id": 124,
+    "name": "Brian Jones",
+    "review": "Decent dealership, delivery took a bit long.",
+    "purchase_date": "2024-02-04",
+    "car_make": "Toyota",
+    "car_model": "Camry",
+    "car_year": 2021
+  },
+  {
+    "id": 416,
+    "dealer_id": 125,
+    "name": "Nancy Martin",
+    "review": "The staff were friendly and the car was perfect.",
+    "purchase_date": "2024-10-12",
+    "car_make": "Toyota",
+    "car_model": "Corolla",
+    "car_year": 2022
+  },
+  {
+    "id": 417,
+    "dealer_id": 125,
+    "name": "Maria Wilson",
+    "review": "Great experience from start to finish, highly recommend.",
+    "purchase_date": "2024-05-22",
+    "car_make": "Mercedes",
+    "car_model": "E-Class",
+    "car_year": 2023
+  },
+  {
+    "id": 418,
+    "dealer_id": 125,
+    "name": "Brian Anderson",
+    "review": "Disappointed with the condition of the car.",
+    "purchase_date": "2023-04-13",
+    "car_make": "Toyota",
+    "car_model": "Camry",
+    "car_year": 2019
+  },
+  {
+    "id": 419,
+    "dealer_id": 126,
+    "name": "Sofia Miller",
+    "review": "The staff were friendly and the car was perfect.",
+    "purchase_date": "2023-05-07",
+    "car_make": "NISSAN",
+    "car_model": "Pathfinder",
+    "car_year": 2021
+  },
+  {
+    "id": 420,
+    "dealer_id": 126,
+    "name": "Anthony Hernandez",
+    "review": "Wonderful experience, the car drives beautifully.",
+    "purchase_date": "2023-09-01",
+    "car_make": "Toyota",
+    "car_model": "Camry",
+    "car_year": 2019
+  },
+  {
+    "id": 421,
+    "dealer_id": 126,
+    "name": "Robert Martinez",
+    "review": "Decent dealership, delivery took a bit long.",
+    "purchase_date": "2022-11-14",
+    "car_make": "Kia",
+    "car_model": "Cerato",
+    "car_year": 2022
+  },
+  {
+    "id": 422,
+    "dealer_id": 126,
+    "name": "Robert Johnson",
+    "review": "Worst dealership visit, the paperwork was a mess.",
+    "purchase_date": "2024-12-23",
+    "car_make": "NISSAN",
+    "car_model": "XTRAIL",
+    "car_year": 2018
+  },
+  {
+    "id": 423,
+    "dealer_id": 126,
+    "name": "Elena Smith",
+    "review": "The staff were friendly and the car was perfect.",
+    "purchase_date": "2022-10-25",
+    "car_make": "NISSAN",
+    "car_model": "XTRAIL",
+    "car_year": 2019
+  },
+  {
+    "id": 424,
+    "dealer_id": 127,
+    "name": "James Garcia",
+    "review": "Fantastic services, I would definitely buy again.",
+    "purchase_date": "2023-04-15",
+    "car_make": "NISSAN",
+    "car_model": "Pathfinder",
+    "car_year": 2020
+  },
+  {
+    "id": 425,
+    "dealer_id": 127,
+    "name": "Michael Jones",
+    "review": "Loved this dealership, everything went smoothly.",
+    "purchase_date": "2023-06-11",
+    "car_make": "NISSAN",
+    "car_model": "Qashqai",
+    "car_year": 2021
+  },
+  {
+    "id": 426,
+    "dealer_id": 127,
+    "name": "Kevin Hernandez",
+    "review": "Loved this dealership, everything went smoothly.",
+    "purchase_date": "2022-12-07",
+    "car_make": "Mercedes",
+    "car_model": "A-Class",
+    "car_year": 2022
+  },
+  {
+    "id": 427,
+    "dealer_id": 128,
+    "name": "Brian Miller",
+    "review": "Fantastic services, I would definitely buy again.",
+    "purchase_date": "2024-12-17",
+    "car_make": "Mercedes",
+    "car_model": "A-Class",
+    "car_year": 2018
+  },
+  {
+    "id": 428,
+    "dealer_id": 128,
+    "name": "Brian Davis",
+    "review": "Excellent service and a fair price, very satisfied.",
+    "purchase_date": "2024-10-13",
+    "car_make": "NISSAN",
+    "car_model": "Pathfinder",
+    "car_year": 2018
+  },
+  {
+    "id": 429,
+    "dealer_id": 128,
+    "name": "Daniel Jackson",
+    "review": "Great experience from start to finish, highly recommend.",
+    "purchase_date": "2022-10-15",
+    "car_make": "Toyota",
+    "car_model": "Corolla",
+    "car_year": 2020
+  },
+  {
+    "id": 430,
+    "dealer_id": 128,
+    "name": "Elena Moore",
+    "review": "Fantastic services, I would definitely buy again.",
+    "purchase_date": "2024-01-14",
+    "car_make": "Toyota",
+    "car_model": "Kluger",
+    "car_year": 2018
+  },
+  {
+    "id": 431,
+    "dealer_id": 129,
+    "name": "Maria Hernandez",
+    "review": "Excellent service and a fair price, very satisfied.",
+    "purchase_date": "2024-06-21",
+    "car_make": "Mercedes",
+    "car_model": "C-Class",
+    "car_year": 2018
+  },
+  {
+    "id": 432,
+    "dealer_id": 129,
+    "name": "Karen Jones",
+    "review": "Worst dealership visit, the paperwork was a mess.",
+    "purchase_date": "2024-09-12",
+    "car_make": "Toyota",
+    "car_model": "Kluger",
+    "car_year": 2019
+  },
+  {
+    "id": 433,
+    "dealer_id": 129,
+    "name": "Carlos Lopez",
+    "review": "Loved this dealership, everything went smoothly.",
+    "purchase_date": "2024-11-08",
+    "car_make": "Mercedes",
+    "car_model": "C-Class",
+    "car_year": 2021
+  },
+  {
+    "id": 434,
+    "dealer_id": 129,
+    "name": "Anthony Martin",
+    "review": "The car works well, that is about all I can say.",
+    "purchase_date": "2022-06-17",
+    "car_make": "Mercedes",
+    "car_model": "A-Class",
+    "car_year": 2023
+  },
+  {
+    "id": 435,
+    "dealer_id": 129,
+    "name": "Linda Moore",
+    "review": "Wonderful experience, the car drives beautifully.",
+    "purchase_date": "2023-09-23",
+    "car_make": "Mercedes",
+    "car_model": "C-Class",
+    "car_year": 2022
+  },
+  {
+    "id": 436,
+    "dealer_id": 130,
+    "name": "Michael Martinez",
+    "review": "Excellent service and a fair price, very satisfied.",
+    "purchase_date": "2024-01-11",
+    "car_make": "Toyota",
+    "car_model": "Camry",
+    "car_year": 2022
+  },
+  {
+    "id": 437,
+    "dealer_id": 130,
+    "name": "Brian Gonzalez",
+    "review": "Fantastic services, I would definitely buy again.",
+    "purchase_date": "2023-08-19",
+    "car_make": "NISSAN",
+    "car_model": "XTRAIL",
+    "car_year": 2018
+  },
+  {
+    "id": 438,
+    "dealer_id": 130,
+    "name": "Karen Williams",
+    "review": "Loved this dealership, everything went smoothly.",
+    "purchase_date": "2024-04-27",
+    "car_make": "Mercedes",
+    "car_model": "E-Class",
+    "car_year": 2019
+  },
+  {
+    "id": 439,
+    "dealer_id": 131,
+    "name": "Amy Garcia",
+    "review": "Excellent service and a fair price, very satisfied.",
+    "purchase_date": "2024-06-07",
+    "car_make": "Kia",
+    "car_model": "Cerato",
+    "car_year": 2022
+  },
+  {
+    "id": 440,
+    "dealer_id": 131,
+    "name": "Maria Hernandez",
+    "review": "Decent dealership, delivery took a bit long.",
+    "purchase_date": "2024-11-01",
+    "car_make": "Mercedes",
+    "car_model": "C-Class",
+    "car_year": 2018
+  },
+  {
+    "id": 441,
+    "dealer_id": 131,
+    "name": "Laura Garcia",
+    "review": "The staff were friendly and the car was perfect.",
+    "purchase_date": "2024-05-06",
+    "car_make": "Toyota",
+    "car_model": "Kluger",
+    "car_year": 2021
+  },
+  {
+    "id": 442,
+    "dealer_id": 131,
+    "name": "Kevin Jackson",
+    "review": "The car works well, that is about all I can say.",
+    "purchase_date": "2023-02-10",
+    "car_make": "Kia",
+    "car_model": "Carnival",
+    "car_year": 2019
+  },
+  {
+    "id": 443,
+    "dealer_id": 132,
+    "name": "Karen Smith",
+    "review": "Bad experience, they were unhelpful and careless.",
+    "purchase_date": "2024-07-09",
+    "car_make": "Mercedes",
+    "car_model": "A-Class",
+    "car_year": 2021
+  },
+  {
+    "id": 444,
+    "dealer_id": 132,
+    "name": "Kevin Jackson",
+    "review": "Loved this dealership, everything went smoothly.",
+    "purchase_date": "2022-12-18",
+    "car_make": "NISSAN",
+    "car_model": "Qashqai",
+    "car_year": 2022
+  },
+  {
+    "id": 445,
+    "dealer_id": 132,
+    "name": "Laura Wilson",
+    "review": "The staff were friendly and the car was perfect.",
+    "purchase_date": "2024-09-20",
+    "car_make": "Audi",
+    "car_model": "A5",
+    "car_year": 2023
+  },
+  {
+    "id": 446,
+    "dealer_id": 132,
+    "name": "Maria Gonzalez",
+    "review": "Disappointed with the condition of the car.",
+    "purchase_date": "2022-06-18",
+    "car_make": "Toyota",
+    "car_model": "Kluger",
+    "car_year": 2022
+  },
+  {
+    "id": 447,
+    "dealer_id": 133,
+    "name": "David Jackson",
+    "review": "The car works well, that is about all I can say.",
+    "purchase_date": "2023-09-24",
+    "car_make": "Audi",
+    "car_model": "A4",
+    "car_year": 2023
+  },
+  {
+    "id": 448,
+    "dealer_id": 133,
+    "name": "Brian Davis",
+    "review": "Loved this dealership, everything went smoothly.",
+    "purchase_date": "2022-11-12",
+    "car_make": "Toyota",
+    "car_model": "Camry",
+    "car_year": 2018
+  },
+  {
+    "id": 449,
+    "dealer_id": 133,
+    "name": "Kevin Jones",
+    "review": "The car was okay, the price was reasonable.",
+    "purchase_date": "2023-06-08",
+    "car_make": "Toyota",
+    "car_model": "Camry",
+    "car_year": 2023
+  },
+  {
+    "id": 450,
+    "dealer_id": 133,
+    "name": "Laura Brown",
+    "review": "Excellent service and a fair price, very satisfied.",
+    "purchase_date": "2023-05-17",
+    "car_make": "Audi",
+    "car_model": "A4",
+    "car_year": 2018
+  },
+  {
+    "id": 451,
+    "dealer_id": 133,
+    "name": "Daniel Martinez",
+    "review": "Fantastic services, I would definitely buy again.",
+    "purchase_date": "2024-07-18",
+    "car_make": "Mercedes",
+    "car_model": "C-Class",
+    "car_year": 2019
+  },
+  {
+    "id": 452,
+    "dealer_id": 134,
+    "name": "Anthony Gonzalez",
+    "review": "Wonderful experience, the car drives beautifully.",
+    "purchase_date": "2024-09-07",
+    "car_make": "NISSAN",
+    "car_model": "XTRAIL",
+    "car_year": 2022
+  },
+  {
+    "id": 453,
+    "dealer_id": 134,
+    "name": "Elena Williams",
+    "review": "The price was too high for what I got, would not recommend.",
+    "purchase_date": "2024-03-26",
+    "car_make": "Kia",
+    "car_model": "Cerato",
+    "car_year": 2021
+  },
+  {
+    "id": 454,
+    "dealer_id": 134,
+    "name": "Sofia Garcia",
+    "review": "Excellent service and a fair price, very satisfied.",
+    "purchase_date": "2022-09-10",
+    "car_make": "Kia",
+    "car_model": "Sorrento",
+    "car_year": 2018
+  },
+  {
+    "id": 455,
+    "dealer_id": 134,
+    "name": "Elena Taylor",
+    "review": "Poor customer service and the wait was too long.",
+    "purchase_date": "2023-10-23",
+    "car_make": "Kia",
+    "car_model": "Carnival",
+    "car_year": 2020
+  },
+  {
+    "id": 456,
+    "dealer_id": 134,
+    "name": "Amy Johnson",
+    "review": "Bad experience, they were unhelpful and careless.",
+    "purchase_date": "2022-12-18",
+    "car_make": "NISSAN",
+    "car_model": "Qashqai",
+    "car_year": 2022
+  },
+  {
+    "id": 457,
+    "dealer_id": 135,
+    "name": "Robert Wilson",
+    "review": "The price was too high for what I got, would not recommend.",
+    "purchase_date": "2023-01-24",
+    "car_make": "Mercedes",
+    "car_model": "A-Class",
+    "car_year": 2020
+  },
+  {
+    "id": 458,
+    "dealer_id": 135,
+    "name": "Elena Gonzalez",
+    "review": "Poor customer service and the wait was too long.",
+    "purchase_date": "2022-07-13",
+    "car_make": "NISSAN",
+    "car_model": "Pathfinder",
+    "car_year": 2019
+  },
+  {
+    "id": 459,
+    "dealer_id": 135,
+    "name": "Kevin Martin",
+    "review": "Decent dealership, delivery took a bit long.",
+    "purchase_date": "2024-01-24",
+    "car_make": "Audi",
+    "car_model": "A5",
+    "car_year": 2019
+  },
+  {
+    "id": 460,
+    "dealer_id": 135,
+    "name": "Robert Gonzalez",
+    "review": "Great experience from start to finish, highly recommend.",
+    "purchase_date": "2022-09-03",
+    "car_make": "Toyota",
+    "car_model": "Corolla",
+    "car_year": 2020
+  },
+  {
+    "id": 461,
+    "dealer_id": 136,
+    "name": "Brian Martinez",
+    "review": "Bad experience, they were unhelpful and careless.",
+    "purchase_date": "2024-01-02",
+    "car_make": "Toyota",
+    "car_model": "Kluger",
+    "car_year": 2023
+  },
+  {
+    "id": 462,
+    "dealer_id": 136,
+    "name": "Nancy Brown",
+    "review": "The car was okay, the price was reasonable.",
+    "purchase_date": "2022-09-26",
+    "car_make": "Toyota",
+    "car_model": "Kluger",
+    "car_year": 2020
+  },
+  {
+    "id": 463,
+    "dealer_id": 136,
+    "name": "Maria Davis",
+    "review": "Excellent service and a fair price, very satisfied.",
+    "purchase_date": "2022-10-22",
+    "car_make": "Toyota",
+    "car_model": "Camry",
+    "car_year": 2019
+  },
+  {
+    "id": 464,
+    "dealer_id": 137,
+    "name": "Brian Martinez",
+    "review": "Loved this dealership, everything went smoothly.",
+    "purchase_date": "2023-12-04",
+    "car_make": "Kia",
+    "car_model": "Carnival",
+    "car_year": 2023
+  },
+  {
+    "id": 465,
+    "dealer_id": 137,
+    "name": "Sofia Thomas",
+    "review": "The staff were friendly and the car was perfect.",
+    "purchase_date": "2023-02-25",
+    "car_make": "Toyota",
+    "car_model": "Corolla",
+    "car_year": 2018
+  },
+  {
+    "id": 466,
+    "dealer_id": 137,
+    "name": "Robert Jackson",
+    "review": "Great experience from start to finish, highly recommend.",
+    "purchase_date": "2023-01-20",
+    "car_make": "Toyota",
+    "car_model": "Corolla",
+    "car_year": 2019
+  },
+  {
+    "id": 467,
+    "dealer_id": 137,
+    "name": "Julia Anderson",
+    "review": "Poor customer service and the wait was too long.",
+    "purchase_date": "2022-04-27",
+    "car_make": "Toyota",
+    "car_model": "Corolla",
+    "car_year": 2020
+  },
+  {
+    "id": 468,
+    "dealer_id": 138,
+    "name": "Karen Taylor",
+    "review": "Loved this dealership, everything went smoothly.",
+    "purchase_date": "2022-03-04",
+    "car_make": "Toyota",
+    "car_model": "Corolla",
+    "car_year": 2022
+  },
+  {
+    "id": 469,
+    "dealer_id": 138,
+    "name": "Nancy Jackson",
+    "review": "Poor customer service and the wait was too long.",
+    "purchase_date": "2024-11-07",
+    "car_make": "Audi",
+    "car_model": "A4",
+    "car_year": 2022
+  },
+  {
+    "id": 470,
+    "dealer_id": 138,
+    "name": "Kevin Taylor",
+    "review": "Service was fine. I have no strong feelings about it.",
+    "purchase_date": "2023-10-02",
+    "car_make": "Kia",
+    "car_model": "Cerato",
+    "car_year": 2021
+  },
+  {
+    "id": 471,
+    "dealer_id": 139,
+    "name": "Amy Lopez",
+    "review": "Disappointed with the condition of the car.",
+    "purchase_date": "2024-12-10",
+    "car_make": "Toyota",
+    "car_model": "Camry",
+    "car_year": 2022
+  },
+  {
+    "id": 472,
+    "dealer_id": 139,
+    "name": "Laura Miller",
+    "review": "Excellent service and a fair price, very satisfied.",
+    "purchase_date": "2022-01-11",
+    "car_make": "Toyota",
+    "car_model": "Kluger",
+    "car_year": 2019
+  },
+  {
+    "id": 473,
+    "dealer_id": 139,
+    "name": "Robert Davis",
+    "review": "Disappointed with the condition of the car.",
+    "purchase_date": "2023-11-26",
+    "car_make": "NISSAN",
+    "car_model": "Qashqai",
+    "car_year": 2022
+  },
+  {
+    "id": 474,
+    "dealer_id": 139,
+    "name": "Anthony Hernandez",
+    "review": "Loved this dealership, everything went smoothly.",
+    "purchase_date": "2022-09-01",
+    "car_make": "Kia",
+    "car_model": "Sorrento",
+    "car_year": 2021
+  },
+  {
+    "id": 475,
+    "dealer_id": 139,
+    "name": "Michael Smith",
+    "review": "The price was too high for what I got, would not recommend.",
+    "purchase_date": "2023-08-05",
+    "car_make": "Kia",
+    "car_model": "Cerato",
+    "car_year": 2018
+  },
+  {
+    "id": 476,
+    "dealer_id": 140,
+    "name": "Daniel Jackson",
+    "review": "Poor customer service and the wait was too long.",
+    "purchase_date": "2022-04-03",
+    "car_make": "Kia",
+    "car_model": "Sorrento",
+    "car_year": 2021
+  },
+  {
+    "id": 477,
+    "dealer_id": 140,
+    "name": "Elena Wilson",
+    "review": "The staff were friendly and the car was perfect.",
+    "purchase_date": "2022-12-21",
+    "car_make": "NISSAN",
+    "car_model": "XTRAIL",
+    "car_year": 2018
+  },
+  {
+    "id": 478,
+    "dealer_id": 140,
+    "name": "Karen Martin",
+    "review": "Service was fine. I have no strong feelings about it.",
+    "purchase_date": "2022-04-01",
+    "car_make": "Toyota",
+    "car_model": "Camry",
+    "car_year": 2023
+  },
+  {
+    "id": 479,
+    "dealer_id": 140,
+    "name": "Robert Lopez",
+    "review": "The price was too high for what I got, would not recommend.",
+    "purchase_date": "2024-12-25",
+    "car_make": "Audi",
+    "car_model": "A6",
+    "car_year": 2019
+  },
+  {
+    "id": 480,
+    "dealer_id": 141,
+    "name": "Karen Garcia",
+    "review": "The price was too high for what I got, would not recommend.",
+    "purchase_date": "2023-04-08",
+    "car_make": "Mercedes",
+    "car_model": "E-Class",
+    "car_year": 2023
+  },
+  {
+    "id": 481,
+    "dealer_id": 141,
+    "name": "John Martin",
+    "review": "The price was too high for what I got, would not recommend.",
+    "purchase_date": "2024-06-09",
+    "car_make": "Kia",
+    "car_model": "Carnival",
+    "car_year": 2018
+  },
+  {
+    "id": 482,
+    "dealer_id": 141,
+    "name": "Michael Thomas",
+    "review": "The staff were friendly and the car was perfect.",
+    "purchase_date": "2023-09-08",
+    "car_make": "Mercedes",
+    "car_model": "C-Class",
+    "car_year": 2023
+  },
+  {
+    "id": 483,
+    "dealer_id": 141,
+    "name": "Julia Brown",
+    "review": "Fantastic services, I would definitely buy again.",
+    "purchase_date": "2024-12-18",
+    "car_make": "Mercedes",
+    "car_model": "E-Class",
+    "car_year": 2020
+  },
+  {
+    "id": 484,
+    "dealer_id": 141,
+    "name": "Anthony Lopez",
+    "review": "The staff were friendly and the car was perfect.",
+    "purchase_date": "2024-10-11",
+    "car_make": "NISSAN",
+    "car_model": "XTRAIL",
+    "car_year": 2018
+  },
+  {
+    "id": 485,
+    "dealer_id": 142,
+    "name": "Laura Hernandez",
+    "review": "Wonderful experience, the car drives beautifully.",
+    "purchase_date": "2022-08-27",
+    "car_make": "Toyota",
+    "car_model": "Corolla",
+    "car_year": 2020
+  },
+  {
+    "id": 486,
+    "dealer_id": 142,
+    "name": "David Miller",
+    "review": "Decent dealership, delivery took a bit long.",
+    "purchase_date": "2022-08-10",
+    "car_make": "NISSAN",
+    "car_model": "Qashqai",
+    "car_year": 2021
+  },
+  {
+    "id": 487,
+    "dealer_id": 142,
+    "name": "Elena Hernandez",
+    "review": "Loved this dealership, everything went smoothly.",
+    "purchase_date": "2024-01-05",
+    "car_make": "NISSAN",
+    "car_model": "Pathfinder",
+    "car_year": 2022
+  },
+  {
+    "id": 488,
+    "dealer_id": 142,
+    "name": "Daniel Lopez",
+    "review": "Disappointed with the condition of the car.",
+    "purchase_date": "2023-12-17",
+    "car_make": "Mercedes",
+    "car_model": "A-Class",
+    "car_year": 2022
+  },
+  {
+    "id": 489,
+    "dealer_id": 142,
+    "name": "John Martinez",
+    "review": "It was an average purchase, nothing special either way.",
+    "purchase_date": "2023-03-21",
+    "car_make": "NISSAN",
+    "car_model": "Pathfinder",
+    "car_year": 2020
+  },
+  {
+    "id": 490,
+    "dealer_id": 143,
+    "name": "Robert Gonzalez",
+    "review": "Service was fine. I have no strong feelings about it.",
+    "purchase_date": "2023-02-18",
+    "car_make": "Mercedes",
+    "car_model": "E-Class",
+    "car_year": 2021
+  },
+  {
+    "id": 491,
+    "dealer_id": 143,
+    "name": "Maria Jones",
+    "review": "The car was okay, the price was reasonable.",
+    "purchase_date": "2024-02-25",
+    "car_make": "Toyota",
+    "car_model": "Kluger",
+    "car_year": 2023
+  },
+  {
+    "id": 492,
+    "dealer_id": 143,
+    "name": "Linda Garcia",
+    "review": "Wonderful experience, the car drives beautifully.",
+    "purchase_date": "2023-06-11",
+    "car_make": "Kia",
+    "car_model": "Carnival",
+    "car_year": 2021
+  },
+  {
+    "id": 493,
+    "dealer_id": 143,
+    "name": "Robert Garcia",
+    "review": "Service was fine. I have no strong feelings about it.",
+    "purchase_date": "2022-07-16",
+    "car_make": "NISSAN",
+    "car_model": "Qashqai",
+    "car_year": 2021
+  },
+  {
+    "id": 494,
+    "dealer_id": 143,
+    "name": "Linda Gonzalez",
+    "review": "The staff were friendly and the car was perfect.",
+    "purchase_date": "2024-12-09",
+    "car_make": "Audi",
+    "car_model": "A5",
+    "car_year": 2018
+  },
+  {
+    "id": 495,
+    "dealer_id": 144,
+    "name": "David Davis",
+    "review": "Fantastic services, I would definitely buy again.",
+    "purchase_date": "2022-03-02",
+    "car_make": "NISSAN",
+    "car_model": "XTRAIL",
+    "car_year": 2023
+  },
+  {
+    "id": 496,
+    "dealer_id": 144,
+    "name": "Nancy Thomas",
+    "review": "Excellent service and a fair price, very satisfied.",
+    "purchase_date": "2022-01-16",
+    "car_make": "Kia",
+    "car_model": "Carnival",
+    "car_year": 2020
+  },
+  {
+    "id": 497,
+    "dealer_id": 144,
+    "name": "John Johnson",
+    "review": "Fantastic services, I would definitely buy again.",
+    "purchase_date": "2023-11-02",
+    "car_make": "Mercedes",
+    "car_model": "C-Class",
+    "car_year": 2019
+  },
+  {
+    "id": 498,
+    "dealer_id": 145,
+    "name": "Sofia Hernandez",
+    "review": "Excellent service and a fair price, very satisfied.",
+    "purchase_date": "2023-02-23",
+    "car_make": "Audi",
+    "car_model": "A5",
+    "car_year": 2019
+  },
+  {
+    "id": 499,
+    "dealer_id": 145,
+    "name": "Michael Thomas",
+    "review": "The staff were friendly and the car was perfect.",
+    "purchase_date": "2024-09-19",
+    "car_make": "Toyota",
+    "car_model": "Corolla",
+    "car_year": 2022
+  },
+  {
+    "id": 500,
+    "dealer_id": 145,
+    "name": "Carlos Moore",
+    "review": "Poor customer service and the wait was too long.",
+    "purchase_date": "2022-10-16",
+    "car_make": "Toyota",
+    "car_model": "Kluger",
+    "car_year": 2018
+  },
+  {
+    "id": 501,
+    "dealer_id": 146,
+    "name": "Karen Garcia",
+    "review": "Great experience from start to finish, highly recommend.",
+    "purchase_date": "2024-11-07",
+    "car_make": "Mercedes",
+    "car_model": "A-Class",
+    "car_year": 2020
+  },
+  {
+    "id": 502,
+    "dealer_id": 146,
+    "name": "Robert Smith",
+    "review": "Wonderful experience, the car drives beautifully.",
+    "purchase_date": "2023-10-07",
+    "car_make": "Audi",
+    "car_model": "A6",
+    "car_year": 2021
+  },
+  {
+    "id": 503,
+    "dealer_id": 146,
+    "name": "Brian Lopez",
+    "review": "Wonderful experience, the car drives beautifully.",
+    "purchase_date": "2023-12-08",
+    "car_make": "Audi",
+    "car_model": "A6",
+    "car_year": 2021
+  },
+  {
+    "id": 504,
+    "dealer_id": 146,
+    "name": "Grace Gonzalez",
+    "review": "Worst dealership visit, the paperwork was a mess.",
+    "purchase_date": "2022-02-14",
+    "car_make": "Mercedes",
+    "car_model": "A-Class",
+    "car_year": 2020
+  },
+  {
+    "id": 505,
+    "dealer_id": 146,
+    "name": "David Jones",
+    "review": "Fantastic services, I would definitely buy again.",
+    "purchase_date": "2023-06-14",
+    "car_make": "NISSAN",
+    "car_model": "Qashqai",
+    "car_year": 2023
+  },
+  {
+    "id": 506,
+    "dealer_id": 147,
+    "name": "Karen Hernandez",
+    "review": "Fantastic services, I would definitely buy again.",
+    "purchase_date": "2024-05-03",
+    "car_make": "Kia",
+    "car_model": "Sorrento",
+    "car_year": 2019
+  },
+  {
+    "id": 507,
+    "dealer_id": 147,
+    "name": "Elena Anderson",
+    "review": "The car works well, that is about all I can say.",
+    "purchase_date": "2022-09-06",
+    "car_make": "NISSAN",
+    "car_model": "Pathfinder",
+    "car_year": 2022
+  },
+  {
+    "id": 508,
+    "dealer_id": 148,
+    "name": "Amy Wilson",
+    "review": "The car works well, that is about all I can say.",
+    "purchase_date": "2024-09-07",
+    "car_make": "Audi",
+    "car_model": "A4",
+    "car_year": 2018
+  },
+  {
+    "id": 509,
+    "dealer_id": 148,
+    "name": "Elena Williams",
+    "review": "Service was fine. I have no strong feelings about it.",
+    "purchase_date": "2022-10-09",
+    "car_make": "Toyota",
+    "car_model": "Corolla",
+    "car_year": 2022
+  },
+  {
+    "id": 510,
+    "dealer_id": 148,
+    "name": "David Gonzalez",
+    "review": "Decent dealership, delivery took a bit long.",
+    "purchase_date": "2022-03-12",
+    "car_make": "Audi",
+    "car_model": "A5",
+    "car_year": 2021
+  },
+  {
+    "id": 511,
+    "dealer_id": 149,
+    "name": "Carlos Jones",
+    "review": "It was an average purchase, nothing special either way.",
+    "purchase_date": "2024-03-04",
+    "car_make": "Kia",
+    "car_model": "Sorrento",
+    "car_year": 2018
+  },
+  {
+    "id": 512,
+    "dealer_id": 149,
+    "name": "Brian Lopez",
+    "review": "Bad experience, they were unhelpful and careless.",
+    "purchase_date": "2023-11-24",
+    "car_make": "Mercedes",
+    "car_model": "E-Class",
+    "car_year": 2022
+  },
+  {
+    "id": 513,
+    "dealer_id": 150,
+    "name": "Nancy Moore",
+    "review": "The price was too high for what I got, would not recommend.",
+    "purchase_date": "2024-06-06",
+    "car_make": "Audi",
+    "car_model": "A6",
+    "car_year": 2022
+  },
+  {
+    "id": 514,
+    "dealer_id": 150,
+    "name": "David Wilson",
+    "review": "Wonderful experience, the car drives beautifully.",
+    "purchase_date": "2024-01-28",
+    "car_make": "NISSAN",
+    "car_model": "Pathfinder",
+    "car_year": 2022
+  },
+  {
+    "id": 515,
+    "dealer_id": 150,
+    "name": "Laura Williams",
+    "review": "Great experience from start to finish, highly recommend.",
+    "purchase_date": "2023-04-09",
+    "car_make": "NISSAN",
+    "car_model": "XTRAIL",
+    "car_year": 2018
+  },
+  {
+    "id": 516,
+    "dealer_id": 151,
+    "name": "James Jones",
+    "review": "Wonderful experience, the car drives beautifully.",
+    "purchase_date": "2023-08-18",
+    "car_make": "Kia",
+    "car_model": "Sorrento",
+    "car_year": 2019
+  },
+  {
+    "id": 517,
+    "dealer_id": 151,
+    "name": "Laura Taylor",
+    "review": "Fantastic services, I would definitely buy again.",
+    "purchase_date": "2024-08-19",
+    "car_make": "NISSAN",
+    "car_model": "XTRAIL",
+    "car_year": 2023
+  },
+  {
+    "id": 518,
+    "dealer_id": 151,
+    "name": "Sofia Brown",
+    "review": "The car works well, that is about all I can say.",
+    "purchase_date": "2023-08-18",
+    "car_make": "Mercedes",
+    "car_model": "C-Class",
+    "car_year": 2022
+  },
+  {
+    "id": 519,
+    "dealer_id": 151,
+    "name": "Amy Brown",
+    "review": "Loved this dealership, everything went smoothly.",
+    "purchase_date": "2023-06-16",
+    "car_make": "Audi",
+    "car_model": "A5",
+    "car_year": 2018
+  },
+  {
+    "id": 520,
+    "dealer_id": 152,
+    "name": "Robert Martin",
+    "review": "Excellent service and a fair price, very satisfied.",
+    "purchase_date": "2024-09-03",
+    "car_make": "NISSAN",
+    "car_model": "Pathfinder",
+    "car_year": 2020
+  },
+  {
+    "id": 521,
+    "dealer_id": 152,
+    "name": "Daniel Lopez",
+    "review": "It was an average purchase, nothing special either way.",
+    "purchase_date": "2023-04-21",
+    "car_make": "Toyota",
+    "car_model": "Camry",
+    "car_year": 2021
+  },
+  {
+    "id": 522,
+    "dealer_id": 152,
+    "name": "Anthony Hernandez",
+    "review": "Fantastic services, I would definitely buy again.",
+    "purchase_date": "2022-09-22",
+    "car_make": "Toyota",
+    "car_model": "Kluger",
+    "car_year": 2020
+  },
+  {
+    "id": 523,
+    "dealer_id": 152,
+    "name": "Maria Smith",
+    "review": "Decent dealership, delivery took a bit long.",
+    "purchase_date": "2023-06-02",
+    "car_make": "Mercedes",
+    "car_model": "C-Class",
+    "car_year": 2018
+  },
+  {
+    "id": 524,
+    "dealer_id": 152,
+    "name": "Linda Gonzalez",
+    "review": "Loved this dealership, everything went smoothly.",
+    "purchase_date": "2023-03-19",
+    "car_make": "Kia",
+    "car_model": "Carnival",
+    "car_year": 2019
+  },
+  {
+    "id": 525,
+    "dealer_id": 153,
+    "name": "Michael Rodriguez",
+    "review": "The car works well, that is about all I can say.",
+    "purchase_date": "2023-03-05",
+    "car_make": "Audi",
+    "car_model": "A6",
+    "car_year": 2022
+  },
+  {
+    "id": 526,
+    "dealer_id": 153,
+    "name": "Carlos Gonzalez",
+    "review": "Excellent service and a fair price, very satisfied.",
+    "purchase_date": "2023-10-10",
+    "car_make": "Toyota",
+    "car_model": "Kluger",
+    "car_year": 2018
+  },
+  {
+    "id": 527,
+    "dealer_id": 153,
+    "name": "Laura Gonzalez",
+    "review": "The price was too high for what I got, would not recommend.",
+    "purchase_date": "2024-04-24",
+    "car_make": "Mercedes",
+    "car_model": "A-Class",
+    "car_year": 2019
+  },
+  {
+    "id": 528,
+    "dealer_id": 153,
+    "name": "Amy Davis",
+    "review": "Excellent service and a fair price, very satisfied.",
+    "purchase_date": "2023-01-28",
+    "car_make": "Audi",
+    "car_model": "A4",
+    "car_year": 2019
+  },
+  {
+    "id": 529,
+    "dealer_id": 154,
+    "name": "Laura Smith",
+    "review": "The car was okay, the price was reasonable.",
+    "purchase_date": "2024-01-22",
+    "car_make": "Toyota",
+    "car_model": "Corolla",
+    "car_year": 2022
+  },
+  {
+    "id": 530,
+    "dealer_id": 154,
+    "name": "Brian Wilson",
+    "review": "The price was too high for what I got, would not recommend.",
+    "purchase_date": "2022-01-18",
+    "car_make": "Kia",
+    "car_model": "Cerato",
+    "car_year": 2023
+  },
+  {
+    "id": 531,
+    "dealer_id": 154,
+    "name": "Maria Garcia",
+    "review": "Worst dealership visit, the paperwork was a mess.",
+    "purchase_date": "2023-05-21",
+    "car_make": "Mercedes",
+    "car_model": "A-Class",
+    "car_year": 2018
+  },
+  {
+    "id": 532,
+    "dealer_id": 154,
+    "name": "Maria Gonzalez",
+    "review": "The staff were friendly and the car was perfect.",
+    "purchase_date": "2024-01-06",
+    "car_make": "Audi",
+    "car_model": "A5",
+    "car_year": 2019
+  },
+  {
+    "id": 533,
+    "dealer_id": 154,
+    "name": "Elena Moore",
+    "review": "The car works well, that is about all I can say.",
+    "purchase_date": "2023-11-14",
+    "car_make": "NISSAN",
+    "car_model": "Qashqai",
+    "car_year": 2019
+  },
+  {
+    "id": 534,
+    "dealer_id": 155,
+    "name": "Robert Johnson",
+    "review": "The car was okay, the price was reasonable.",
+    "purchase_date": "2022-04-26",
+    "car_make": "Toyota",
+    "car_model": "Kluger",
+    "car_year": 2023
+  },
+  {
+    "id": 535,
+    "dealer_id": 155,
+    "name": "Daniel Smith",
+    "review": "Loved this dealership, everything went smoothly.",
+    "purchase_date": "2023-07-10",
+    "car_make": "Mercedes",
+    "car_model": "E-Class",
+    "car_year": 2020
+  },
+  {
+    "id": 536,
+    "dealer_id": 155,
+    "name": "Nancy Jones",
+    "review": "Excellent service and a fair price, very satisfied.",
+    "purchase_date": "2022-05-10",
+    "car_make": "Mercedes",
+    "car_model": "E-Class",
+    "car_year": 2022
+  },
+  {
+    "id": 537,
+    "dealer_id": 155,
+    "name": "Carlos Johnson",
+    "review": "The car was okay, the price was reasonable.",
+    "purchase_date": "2022-07-23",
+    "car_make": "Kia",
+    "car_model": "Carnival",
+    "car_year": 2018
+  },
+  {
+    "id": 538,
+    "dealer_id": 155,
+    "name": "Julia Moore",
+    "review": "Loved this dealership, everything went smoothly.",
+    "purchase_date": "2023-03-05",
+    "car_make": "Kia",
+    "car_model": "Sorrento",
+    "car_year": 2021
+  }
+]

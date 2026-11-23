@@ -1,0 +1,777 @@
+[
+  {
+    "id": 1,
+    "name": "Premier Auto Hoover Motors",
+    "state": "Alabama"
+  },
+  {
+    "id": 2,
+    "name": "Crossroads Birmingham Auto Mall",
+    "state": "Alabama"
+  },
+  {
+    "id": 3,
+    "name": "Lakeside Tuscaloosa Auto Mall",
+    "state": "Alabama"
+  },
+  {
+    "id": 4,
+    "name": "Best Cars Springdale Car Company",
+    "state": "Arizona"
+  },
+  {
+    "id": 5,
+    "name": "Sunset Conway Automotive",
+    "state": "Arizona"
+  },
+  {
+    "id": 6,
+    "name": "Grand Fort Smith Dealership",
+    "state": "Arkansas"
+  },
+  {
+    "id": 7,
+    "name": "Heritage Fort Smith Car Company",
+    "state": "Arkansas"
+  },
+  {
+    "id": 8,
+    "name": "Lakeside San Diego Auto Group",
+    "state": "California"
+  },
+  {
+    "id": 9,
+    "name": "City Motors San Diego Motors",
+    "state": "California"
+  },
+  {
+    "id": 10,
+    "name": "Northside San Diego Car Company",
+    "state": "California"
+  },
+  {
+    "id": 11,
+    "name": "Best Cars Denver Auto Mall",
+    "state": "Colorado"
+  },
+  {
+    "id": 12,
+    "name": "Premier Auto Boulder Motors",
+    "state": "Colorado"
+  },
+  {
+    "id": 13,
+    "name": "Metro Boulder Dealership",
+    "state": "Colorado"
+  },
+  {
+    "id": 14,
+    "name": "Heritage Boulder Motors Inc",
+    "state": "Colorado"
+  },
+  {
+    "id": 15,
+    "name": "Sunrise Denver Auto Mall",
+    "state": "Connecticut"
+  },
+  {
+    "id": 16,
+    "name": "Summit Aurora Auto Group",
+    "state": "Connecticut"
+  },
+  {
+    "id": 17,
+    "name": "Sunrise Denver Auto Mall",
+    "state": "Connecticut"
+  },
+  {
+    "id": 18,
+    "name": "City Motors Aurora Automotive",
+    "state": "Connecticut"
+  },
+  {
+    "id": 19,
+    "name": "Grand Springfield Auto Group",
+    "state": "Delaware"
+  },
+  {
+    "id": 20,
+    "name": "Crossroads Springfield Dealership",
+    "state": "Delaware"
+  },
+  {
+    "id": 21,
+    "name": "Pioneer Springfield Automotive",
+    "state": "Delaware"
+  },
+  {
+    "id": 22,
+    "name": "City Motors Tallahassee Auto Group",
+    "state": "Florida"
+  },
+  {
+    "id": 23,
+    "name": "Pioneer Tallahassee Automotive",
+    "state": "Florida"
+  },
+  {
+    "id": 24,
+    "name": "Summit Fort Lauderdale Auto Mall",
+    "state": "Florida"
+  },
+  {
+    "id": 25,
+    "name": "Grand Springfield Motors",
+    "state": "Georgia"
+  },
+  {
+    "id": 26,
+    "name": "Best Cars Springfield Motors",
+    "state": "Georgia"
+  },
+  {
+    "id": 27,
+    "name": "Grand Springfield Dealership",
+    "state": "Georgia"
+  },
+  {
+    "id": 28,
+    "name": "Metro Springfield Motors",
+    "state": "Idaho"
+  },
+  {
+    "id": 29,
+    "name": "City Motors Springfield Automotive Group",
+    "state": "Idaho"
+  },
+  {
+    "id": 30,
+    "name": "Northside Springfield Automotive",
+    "state": "Idaho"
+  },
+  {
+    "id": 31,
+    "name": "Riverbend Springfield Dealership",
+    "state": "Idaho"
+  },
+  {
+    "id": 32,
+    "name": "Parkway Joliet Motors Inc",
+    "state": "Illinois"
+  },
+  {
+    "id": 33,
+    "name": "Parkway Joliet Automotive",
+    "state": "Illinois"
+  },
+  {
+    "id": 34,
+    "name": "Best Cars Joliet Motors Inc",
+    "state": "Illinois"
+  },
+  {
+    "id": 35,
+    "name": "Riverbend South Bend Automotive",
+    "state": "Indiana"
+  },
+  {
+    "id": 36,
+    "name": "Sunset Evansville Car Company",
+    "state": "Indiana"
+  },
+  {
+    "id": 37,
+    "name": "Premier Auto Fort Wayne Automotive",
+    "state": "Indiana"
+  },
+  {
+    "id": 38,
+    "name": "Best Cars Springfield Dealership",
+    "state": "Iowa"
+  },
+  {
+    "id": 39,
+    "name": "Highway Springfield Automotive Group",
+    "state": "Iowa"
+  },
+  {
+    "id": 40,
+    "name": "Northside Springfield Motors",
+    "state": "Iowa"
+  },
+  {
+    "id": 41,
+    "name": "Best Cars Springfield Automotive Group",
+    "state": "Kansas"
+  },
+  {
+    "id": 42,
+    "name": "Crossroads Springfield Automotive Group",
+    "state": "Kansas"
+  },
+  {
+    "id": 43,
+    "name": "Parkway Springfield Auto Mall",
+    "state": "Kansas"
+  },
+  {
+    "id": 44,
+    "name": "Crossroads Springfield Auto Group",
+    "state": "Kentucky"
+  },
+  {
+    "id": 45,
+    "name": "Highway Springfield Motors Inc",
+    "state": "Kentucky"
+  },
+  {
+    "id": 46,
+    "name": "Sunset Springfield Automotive",
+    "state": "Kentucky"
+  },
+  {
+    "id": 47,
+    "name": "Highway Springfield Auto Group",
+    "state": "Louisiana"
+  },
+  {
+    "id": 48,
+    "name": "Riverbend Springfield Motors Inc",
+    "state": "Louisiana"
+  },
+  {
+    "id": 49,
+    "name": "Heritage Springfield Car Company",
+    "state": "Louisiana"
+  },
+  {
+    "id": 50,
+    "name": "Metro Springfield Motors Inc",
+    "state": "Louisiana"
+  },
+  {
+    "id": 51,
+    "name": "Sunset Boston Motors Inc",
+    "state": "Maine"
+  },
+  {
+    "id": 52,
+    "name": "Highway Springfield Auto Group",
+    "state": "Maine"
+  },
+  {
+    "id": 53,
+    "name": "Metro Brockton Auto Mall",
+    "state": "Maine"
+  },
+  {
+    "id": 54,
+    "name": "Summit Brockton Automotive",
+    "state": "Maine"
+  },
+  {
+    "id": 55,
+    "name": "Highway Boston Auto Group",
+    "state": "Maryland"
+  },
+  {
+    "id": 56,
+    "name": "Riverbend Springfield Automotive",
+    "state": "Maryland"
+  },
+  {
+    "id": 57,
+    "name": "Parkway Brockton Dealership",
+    "state": "Maryland"
+  },
+  {
+    "id": 58,
+    "name": "Premier Auto Boston Car Company",
+    "state": "Maryland"
+  },
+  {
+    "id": 59,
+    "name": "Best Cars Springfield Automotive",
+    "state": "Massachusetts"
+  },
+  {
+    "id": 60,
+    "name": "Heritage Boston Automotive Group",
+    "state": "Massachusetts"
+  },
+  {
+    "id": 61,
+    "name": "Grand Boston Auto Mall",
+    "state": "Massachusetts"
+  },
+  {
+    "id": 62,
+    "name": "Summit Worcester Dealership",
+    "state": "Massachusetts"
+  },
+  {
+    "id": 63,
+    "name": "Parkway Lansing Auto Mall",
+    "state": "Michigan"
+  },
+  {
+    "id": 64,
+    "name": "Parkway Ann Arbor Automotive",
+    "state": "Michigan"
+  },
+  {
+    "id": 65,
+    "name": "Riverbend Ann Arbor Automotive",
+    "state": "Michigan"
+  },
+  {
+    "id": 66,
+    "name": "Premier Auto Lansing Automotive",
+    "state": "Minnesota"
+  },
+  {
+    "id": 67,
+    "name": "City Motors Grand Rapids Dealership",
+    "state": "Minnesota"
+  },
+  {
+    "id": 68,
+    "name": "Northside Flint Car Company",
+    "state": "Minnesota"
+  },
+  {
+    "id": 69,
+    "name": "Riverbend Flint Car Company",
+    "state": "Minnesota"
+  },
+  {
+    "id": 70,
+    "name": "Premier Auto Flint Auto Group",
+    "state": "Mississippi"
+  },
+  {
+    "id": 71,
+    "name": "Sunrise Flint Motors",
+    "state": "Mississippi"
+  },
+  {
+    "id": 72,
+    "name": "Parkway Flint Auto Group",
+    "state": "Missouri"
+  },
+  {
+    "id": 73,
+    "name": "Riverbend Detroit Motors",
+    "state": "Missouri"
+  },
+  {
+    "id": 74,
+    "name": "City Motors Ann Arbor Motors",
+    "state": "Missouri"
+  },
+  {
+    "id": 75,
+    "name": "Grand Lee's Summit Automotive Group",
+    "state": "Montana"
+  },
+  {
+    "id": 76,
+    "name": "Riverbend Independence Auto Mall",
+    "state": "Montana"
+  },
+  {
+    "id": 77,
+    "name": "City Motors Columbia Motors",
+    "state": "Montana"
+  },
+  {
+    "id": 78,
+    "name": "Crossroads Springfield Motors",
+    "state": "Nebraska"
+  },
+  {
+    "id": 79,
+    "name": "Highway Springfield Automotive Group",
+    "state": "Nebraska"
+  },
+  {
+    "id": 80,
+    "name": "Sunset Springfield Motors Inc",
+    "state": "Nebraska"
+  },
+  {
+    "id": 81,
+    "name": "Heritage Springfield Automotive Group",
+    "state": "Nevada"
+  },
+  {
+    "id": 82,
+    "name": "Crossroads Springfield Auto Mall",
+    "state": "Nevada"
+  },
+  {
+    "id": 83,
+    "name": "Riverbend Springfield Motors",
+    "state": "Nevada"
+  },
+  {
+    "id": 84,
+    "name": "Crossroads Springfield Automotive",
+    "state": "Nevada"
+  },
+  {
+    "id": 85,
+    "name": "Pioneer Springfield Dealership",
+    "state": "New Hampshire"
+  },
+  {
+    "id": 86,
+    "name": "Sunrise Springfield Motors Inc",
+    "state": "New Hampshire"
+  },
+  {
+    "id": 87,
+    "name": "Best Cars Springfield Automotive Group",
+    "state": "New Hampshire"
+  },
+  {
+    "id": 88,
+    "name": "Parkway Springfield Auto Mall",
+    "state": "New Hampshire"
+  },
+  {
+    "id": 89,
+    "name": "Pioneer Springfield Motors Inc",
+    "state": "New Jersey"
+  },
+  {
+    "id": 90,
+    "name": "Highway Springfield Dealership",
+    "state": "New Jersey"
+  },
+  {
+    "id": 91,
+    "name": "Northside Springfield Auto Mall",
+    "state": "New Jersey"
+  },
+  {
+    "id": 92,
+    "name": "Premier Auto Springfield Automotive",
+    "state": "New Mexico"
+  },
+  {
+    "id": 93,
+    "name": "Heritage Springfield Auto Group",
+    "state": "New Mexico"
+  },
+  {
+    "id": 94,
+    "name": "Northside Springfield Automotive Group",
+    "state": "New York"
+  },
+  {
+    "id": 95,
+    "name": "Summit Springfield Auto Group",
+    "state": "New York"
+  },
+  {
+    "id": 96,
+    "name": "Northside Springfield Automotive Group",
+    "state": "New York"
+  },
+  {
+    "id": 97,
+    "name": "City Motors Springfield Motors",
+    "state": "North Carolina"
+  },
+  {
+    "id": 98,
+    "name": "Pioneer Springfield Motors",
+    "state": "North Carolina"
+  },
+  {
+    "id": 99,
+    "name": "Highway Springfield Motors",
+    "state": "North Carolina"
+  },
+  {
+    "id": 100,
+    "name": "Northside Springfield Motors",
+    "state": "North Carolina"
+  },
+  {
+    "id": 101,
+    "name": "Heritage Springfield Car Company",
+    "state": "North Dakota"
+  },
+  {
+    "id": 102,
+    "name": "Sunrise Springfield Auto Group",
+    "state": "North Dakota"
+  },
+  {
+    "id": 103,
+    "name": "City Motors Toledo Automotive",
+    "state": "Ohio"
+  },
+  {
+    "id": 104,
+    "name": "Pioneer Dayton Automotive",
+    "state": "Ohio"
+  },
+  {
+    "id": 105,
+    "name": "Heritage Akron Motors Inc",
+    "state": "Ohio"
+  },
+  {
+    "id": 106,
+    "name": "City Motors Cleveland Car Company",
+    "state": "Ohio"
+  },
+  {
+    "id": 107,
+    "name": "Parkway Lawton Dealership",
+    "state": "Oklahoma"
+  },
+  {
+    "id": 108,
+    "name": "Summit Oklahoma City Auto Group",
+    "state": "Oklahoma"
+  },
+  {
+    "id": 109,
+    "name": "Metro Gresham Motors Inc",
+    "state": "Oregon"
+  },
+  {
+    "id": 110,
+    "name": "Premier Auto Bend Auto Mall",
+    "state": "Oregon"
+  },
+  {
+    "id": 111,
+    "name": "Metro Springfield Car Company",
+    "state": "Pennsylvania"
+  },
+  {
+    "id": 112,
+    "name": "Northside Springfield Motors Inc",
+    "state": "Pennsylvania"
+  },
+  {
+    "id": 113,
+    "name": "Metro Springfield Automotive Group",
+    "state": "Pennsylvania"
+  },
+  {
+    "id": 114,
+    "name": "Best Cars Springfield Auto Group",
+    "state": "Rhode Island"
+  },
+  {
+    "id": 115,
+    "name": "City Motors Springfield Auto Mall",
+    "state": "Rhode Island"
+  },
+  {
+    "id": 116,
+    "name": "Highway Springfield Automotive",
+    "state": "Rhode Island"
+  },
+  {
+    "id": 117,
+    "name": "Highway Springfield Motors Inc",
+    "state": "Rhode Island"
+  },
+  {
+    "id": 118,
+    "name": "Best Cars Springfield Dealership",
+    "state": "South Carolina"
+  },
+  {
+    "id": 119,
+    "name": "Sunset Springfield Automotive Group",
+    "state": "South Carolina"
+  },
+  {
+    "id": 120,
+    "name": "Lakeside Springfield Automotive Group",
+    "state": "South Carolina"
+  },
+  {
+    "id": 121,
+    "name": "Sunset Springfield Motors",
+    "state": "South Dakota"
+  },
+  {
+    "id": 122,
+    "name": "Premier Auto Springfield Motors",
+    "state": "South Dakota"
+  },
+  {
+    "id": 123,
+    "name": "Sunrise Springfield Motors Inc",
+    "state": "South Dakota"
+  },
+  {
+    "id": 124,
+    "name": "Sunset Springfield Auto Mall",
+    "state": "South Dakota"
+  },
+  {
+    "id": 125,
+    "name": "Crossroads Springfield Dealership",
+    "state": "Tennessee"
+  },
+  {
+    "id": 126,
+    "name": "Lakeside Springfield Auto Mall",
+    "state": "Tennessee"
+  },
+  {
+    "id": 127,
+    "name": "Pioneer Springfield Motors",
+    "state": "Tennessee"
+  },
+  {
+    "id": 128,
+    "name": "Heritage Springfield Auto Mall",
+    "state": "Tennessee"
+  },
+  {
+    "id": 129,
+    "name": "Highway Springfield Automotive Group",
+    "state": "Texas"
+  },
+  {
+    "id": 130,
+    "name": "Lakeside Springfield Dealership",
+    "state": "Texas"
+  },
+  {
+    "id": 131,
+    "name": "Highway Springfield Motors",
+    "state": "Texas"
+  },
+  {
+    "id": 132,
+    "name": "City Motors Springfield Auto Mall",
+    "state": "Texas"
+  },
+  {
+    "id": 133,
+    "name": "Riverbend West Valley City Dealership",
+    "state": "Utah"
+  },
+  {
+    "id": 134,
+    "name": "Best Cars Orem Auto Mall",
+    "state": "Utah"
+  },
+  {
+    "id": 135,
+    "name": "Northside Orem Auto Group",
+    "state": "Utah"
+  },
+  {
+    "id": 136,
+    "name": "Crossroads Springfield Auto Mall",
+    "state": "Vermont"
+  },
+  {
+    "id": 137,
+    "name": "Sunrise Springfield Auto Group",
+    "state": "Vermont"
+  },
+  {
+    "id": 138,
+    "name": "Lakeside Springfield Car Company",
+    "state": "Vermont"
+  },
+  {
+    "id": 139,
+    "name": "Highway Springfield Motors Inc",
+    "state": "Vermont"
+  },
+  {
+    "id": 140,
+    "name": "Sunrise Springfield Automotive Group",
+    "state": "Virginia"
+  },
+  {
+    "id": 141,
+    "name": "Northside Springfield Motors Inc",
+    "state": "Virginia"
+  },
+  {
+    "id": 142,
+    "name": "Grand Springfield Automotive Group",
+    "state": "Virginia"
+  },
+  {
+    "id": 143,
+    "name": "Highway Springfield Motors",
+    "state": "Virginia"
+  },
+  {
+    "id": 144,
+    "name": "Sunset Seattle Car Company",
+    "state": "Washington"
+  },
+  {
+    "id": 145,
+    "name": "Heritage Bellevue Automotive Group",
+    "state": "Washington"
+  },
+  {
+    "id": 146,
+    "name": "Best Cars Springfield Auto Mall",
+    "state": "West Virginia"
+  },
+  {
+    "id": 147,
+    "name": "Grand Springfield Auto Mall",
+    "state": "West Virginia"
+  },
+  {
+    "id": 148,
+    "name": "Highway Springfield Motors Inc",
+    "state": "West Virginia"
+  },
+  {
+    "id": 149,
+    "name": "Lakeside Madison Car Company",
+    "state": "Wisconsin"
+  },
+  {
+    "id": 150,
+    "name": "Metro Milwaukee Motors Inc",
+    "state": "Wisconsin"
+  },
+  {
+    "id": 151,
+    "name": "Sunset Madison Automotive",
+    "state": "Wisconsin"
+  },
+  {
+    "id": 152,
+    "name": "Pioneer Springfield Automotive Group",
+    "state": "Wyoming"
+  },
+  {
+    "id": 153,
+    "name": "Lakeside Springfield Motors Inc",
+    "state": "Wyoming"
+  },
+  {
+    "id": 154,
+    "name": "Parkway Springfield Auto Group",
+    "state": "Wyoming"
+  },
+  {
+    "id": 155,
+    "name": "Summit Springfield Motors",
+    "state": "Wyoming"
+  }
+]
